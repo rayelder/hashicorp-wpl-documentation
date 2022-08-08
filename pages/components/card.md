@@ -2,7 +2,7 @@
 Limited use: Industry pages only
 :::
 
-# Card@1.0.0
+# Card
 
 Use to promote a single marketing page.
 
