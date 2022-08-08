@@ -6,7 +6,7 @@ Limited use: Industry pages only
 
 # Card
 
-Use to promote a single marketing page.
+**Purpose:** Use to promote a single marketing page.
 
 | Figma branch | Figma prototype |
 |----|----|
