@@ -43,7 +43,7 @@ Limited use: Industry pages only
 
 | Content | Character minimum | Char maximum |
 |----|----|----|
-| Display title | 110 | 130 |
-| Body title | 150 | 170 |
+| Display  | 110 | 130 |
+| Body  | 150 | 170 |
 
 
