@@ -2,7 +2,7 @@ Version 1.0.2
 
 # Intro
 
-## Purpose:
+## Purpose
 
 Use to introduce a topic and encourage call-to-action.
 
