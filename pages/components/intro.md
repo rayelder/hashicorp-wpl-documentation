@@ -20,13 +20,13 @@ Use to introduce a topic and encourage call-to-action.
 
 | Name | Type | Description |
 |----|----|----|
-| `appearance` | string | Display intro on light or dark backgrounds. n **Options:** “light”, “Dark” |
-| `textAlignment` | string | Controls the text alignment rendering. n **Options:** “left”, “center” |
+| `appearance` | string | Display intro on light or dark backgrounds. **Options:** “light”, “dark” |
+| `textAlignment` | string | Controls the text alignment rendering. **Options:** “left”, “center” |
 | `showActions` | boolean | Show or hide Actions component. Default is `True` |
 | `showEyebrow` | boolean | Show or hide eyebrow text. Default is `False` |
 | `eyebrow` | string | Optional text displayed above the `heading` |
 | `heading` | string | Required text displayed within the `heading` element |
-| `headingSize` | number | Display intro on light or dark backgrounds. n **Options:** 1, 2, 3 |
+| `headingSize` | number | Display intro on light or dark backgrounds. **Options:** 1, 2, 3 |
 | `description` | string | Required text following the `heading` element |
 
 ## States
