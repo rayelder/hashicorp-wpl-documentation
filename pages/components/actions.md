@@ -8,14 +8,16 @@ Use to promote desired next user engagement.
 
 ## Rules
 
-* Bullet
-* Bullet
+* No more than 2 calls-to-actions
 
 ## Props
 
 | Name | Type | Description |
 |----|----|----|
-|    |    |    |
+| `type` | string |    |
+| `appearance` | string |    |
+| `isStacked` | boolean |    |
+| `showSecondary` | boolean |    |
 
 ## States
 
@@ -23,23 +25,26 @@ Not applicable
 
 ## UX writing guidelines
 
-* Bullet
-* Bullet
+* TBD
 
 ### Character limits
 
 | Content | Minimum | Maximum |
 |----|----|----|
-|    |    |    |
+| TBD |    |    |
 
 ## Changelog
 
-* Bullet
+**Aug 9, 2022 -** 
+
+* Removed `linkCount` setting limit of 2 calls-to-action
+* Updated colors for “light” and “dark” appearance
+* Simplified Figma component properties
 
 ## Links
 
-* Figma
-* Design documentation
-* Swingset
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=537%3A891)
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/actions)
+* [Swingset](https://react-components.vercel.app/components/actions)
 
 
