@@ -1,11 +1,13 @@
 Version 1.0.3
 
+
+---
+
 # Intro
 
 ## Purpose
 
 Use to introduce a topic and encourage call-to-action.
-
 
 
 ---
@@ -59,14 +61,5 @@ Aug 09, 2022
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=536%3A702)
 * [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/intro)
 * [Swingset](https://react-components.vercel.app/components/intro)
-
-
-
----
-
-## Checklist
-
-* Spacing
-* Text color contrast
 
 
