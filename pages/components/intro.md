@@ -12,9 +12,12 @@ Version 1.0.0
 
 ## Props
 
-| Prop | Preview |
-|----|----|
-| TBD |    |
+| Prop | Type | Explanation |
+|----|----|----|
+| `on` | String | What surface is the component placed on? `default` is white. `strong` is black. |
+| `isCentered` | Boolean | Text alignment left (False) or center (True) |
+| `showActions` | Boolean | Show or hide Actions component. Default is `True` |
+| `showEyebrow` | Boolean | Show or hide eyebrow text. Default is `False` |
 
 ## States
 
