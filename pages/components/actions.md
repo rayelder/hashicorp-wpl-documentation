@@ -35,7 +35,7 @@ Not applicable
 
 ## Changelog
 
-**Aug 9, 2022 -**
+### Aug 9, 2022
 
 * Removed `linkCount` limiting to only 2 calls-to-action
 * Updated colors for “light” and “dark” appearance
