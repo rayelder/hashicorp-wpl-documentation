@@ -2,9 +2,7 @@ Version 1.0.0
 
 # Intro
 
-### **Purpose:**
-
-Use to promote a single marketing page.
+**Purpose:** Use to introduce a topic and encourage call-to-action.
 
 ## Changelog
 
@@ -24,7 +22,7 @@ Not applicable
 
 ## UX writing guidelines
 
-* Focus on writing keyword relevant titles.
+* Focus on writing keyword relevant display titles.
 * Target a readability grade level score of 8 to meet plain language guidelines.  
 
 
