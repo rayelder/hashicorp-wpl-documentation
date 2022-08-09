@@ -2,13 +2,19 @@ Version 1.0.0
 
 # Intro
 
-## Purpose: 
+## Purpose:
 
 Use to introduce a topic and encourage call-to-action.
 
 
 
 ---
+
+## Rules
+
+– Do not center align typography on small breakpoint
+
+– Encourage the use of a single call-to-action. Default call-to-action should be primary Stand-alone-link.
 
 ## Props
 
