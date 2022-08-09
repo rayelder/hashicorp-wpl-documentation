@@ -12,9 +12,13 @@ Use to introduce a topic and encourage call-to-action.
 
 ## Rules
 
-– Do not center align typography on small breakpoint
+* Do not center align typography on small breakpoint
 
-– Encourage the use of a single call-to-action. Default call-to-action should be primary Stand-alone-link.
+
+* Encourage the use of a single call-to-action. Default call-to-action should be primary Stand-alone-link.
+
+
+* `eyebrow` text uses [Title case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
 
 ## Props
 
@@ -43,8 +47,8 @@ Not applicable
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| Display | 40 | 55 |
-| Body | 175 | 300 |
+| `heading` | 40 | 55 |
+| `description` | 175 | 300 |
 
 ## Changelog
 
