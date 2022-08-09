@@ -48,7 +48,7 @@ Not applicable
 
 ## Changelog
 
-### Aug 09, 2022
+Aug 09, 2022
 
 * Fixed gap spacing across all breakpoints
 * Updated eyebrow styling to `body/large/bold` using `neutral/500`. [Approved by Coon Lam](https://hashicorp.slack.com/archives/C02BPN64LSG/p1659969972606119)
