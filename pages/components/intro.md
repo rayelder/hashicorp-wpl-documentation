@@ -2,7 +2,9 @@ Version 1.0.0
 
 # Intro
 
-**Purpose:** Use to introduce a topic and encourage call-to-action.
+## Purpose: 
+
+Use to introduce a topic and encourage call-to-action.
 
 
 
