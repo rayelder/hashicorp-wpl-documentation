@@ -23,15 +23,15 @@ Not applicable
 ## UX writing guidelines
 
 * Focus on writing keyword relevant display titles.
-* Target a readability grade level score of 8 to meet plain language guidelines.  
+* Target a readability grade level score of 8 to meet plain language guidelines.
 
 
 **Character limits**
 
-| `Content` | Character minimum | Char maximum |
+| Content | Minimum | Maximum |
 |----|----|----|
-| Display | 110 | 130 |
-| Body | 150 | 170 |
+| Display | 40 | 55 |
+| Body | 175 | 300 |
 
 ## Links
 
