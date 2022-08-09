@@ -1,6 +1,6 @@
 Version 1.0.0
 
-## CTACard
+# CTACard
 
 ## Purpose
 
@@ -45,6 +45,5 @@ To promote a specific product offering.
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=1360%3A7183)
 * Design documentation
 * ~~Swingset~~
-
 
 
