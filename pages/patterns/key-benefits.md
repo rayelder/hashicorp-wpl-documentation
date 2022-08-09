@@ -38,11 +38,12 @@ To promote product or solution key benefits.
 
 ### Aug 9, 2022
 
-* Added Ben’s image variant
+* Refined breakpoints in preparation for adding image variant
 
 ## Links
 
 * Figma
 * Design documentation
 * Swingset
+
 
