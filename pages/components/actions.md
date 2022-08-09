@@ -1,6 +1,6 @@
 Version 1.0.0
 
-## Actions
+# Actions
 
 ## Purpose
 
@@ -46,4 +46,5 @@ Not applicable
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=537%3A891)
 * [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/actions)
 * [Swingset](https://react-components.vercel.app/components/actions)
+
 
