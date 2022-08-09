@@ -63,3 +63,11 @@ Not applicable
 * [Swingset](https://react-components.vercel.app/components/intro)
 
 
+---
+
+## Checklist
+
+* Spacing
+* Text color contrast
+
+
