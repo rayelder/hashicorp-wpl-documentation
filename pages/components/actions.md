@@ -4,7 +4,7 @@ Version 1.0.0
 
 ## Purpose
 
-Use to promote desired next user engagement.
+Use to promote next call-to-action.
 
 ## Rules
 
@@ -14,10 +14,10 @@ Use to promote desired next user engagement.
 
 | Name | Type | Description |
 |----|----|----|
-| `type` | string |    |
-| `appearance` | string |    |
-| `isStacked` | boolean |    |
-| `showSecondary` | boolean |    |
+| `type` | string | Controls the call-to-action styling. **Options:** “Button”, “StandaloneLink”, “Mixed” |
+| `appearance` | string | Display Actions component on light or dark backgrounds. **Options:** “light”, “dark” |
+| `isStacked` | boolean | Stack buttons or StandaloneLinks vertically. Default is `False` |
+| `showSecondary` | boolean | Show or hide secondary call-to-action. Default is `False` |
 
 ## States
 
@@ -35,9 +35,9 @@ Not applicable
 
 ## Changelog
 
-**Aug 9, 2022 -** 
+**Aug 9, 2022 -**
 
-* Removed `linkCount` setting limit of 2 calls-to-action
+* Removed `linkCount` limiting to only 2 calls-to-action
 * Updated colors for “light” and “dark” appearance
 * Simplified Figma component properties
 
