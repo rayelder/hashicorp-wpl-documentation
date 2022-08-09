@@ -1,7 +1,7 @@
 {
   "index": "Introduction",
-
+  "components/actions": "Actions",
   "components/card": "Card",
-  "components/cta-card": "CTACard",
-  "components/intro": "Intro"
+  "components/intro": "Intro",
+  "components/cta-card": "CTACard"
 }
