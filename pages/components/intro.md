@@ -5,16 +5,21 @@ Version 1.0.0
 **Purpose:** Use to introduce a topic and encourage call-to-action.
 
 
+
 ---
 
 ## Props
 
-| Prop | Type | Explanation |
+| Name | Type | Description |
 |----|----|----|
-| `on` | String | What surface is the component placed on? `default` is white. `strong` is black. |
-| `isCentered` | Boolean | Text alignment left (False) or center (True) |
-| `showActions` | Boolean | Show or hide Actions component. Default is `True` |
-| `showEyebrow` | Boolean | Show or hide eyebrow text. Default is `False` |
+| `appearance` | string | Display intro on light or dark backgrounds. n **Options:** “light”, “Dark” |
+| `textAlignment` | string | Controls the text alignment rendering. n **Options:** “left”, “center” |
+| `showActions` | boolean | Show or hide Actions component. Default is `True` |
+| `showEyebrow` | boolean | Show or hide eyebrow text. Default is `False` |
+| `eyebrow` | string | Optional text displayed above the `heading` |
+| `heading` | string | Required text displayed within the `heading` element |
+| `headingSize` | number | Display intro on light or dark backgrounds. n **Options:** 1, 2, 3 |
+| `description` | string | Required text following the `heading` element |
 
 ## States
 
@@ -37,7 +42,7 @@ Not applicable
 
 ### Aug 09, 2022
 
-* Updated eyebrow styling from `label` to `body`
+* Updated eyebrow styling to `body/large/bold` using `neutral/500`. [Approved by Coon Lam](https://hashicorp.slack.com/archives/C02BPN64LSG/p1659969972606119)
 
 ## Links
 
