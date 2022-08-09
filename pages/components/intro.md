@@ -2,7 +2,7 @@ Version 1.0.0
 
 # Intro
 
-### **Purpose:** 
+### **Purpose:**
 
 Use to promote a single marketing page.
 
@@ -25,11 +25,12 @@ Not applicable
 ## UX writing guidelines
 
 * Focus on writing keyword relevant titles.
-* Target a readability grade level score of 8 to meet plain language guidelines.
+* Target a readability grade level score of 8 to meet plain language guidelines.  
 
-## DatoCMS character limits
 
-| Content | Character minimum | Char maximum |
+**Character limits**
+
+| `Content` | Character minimum | Char maximum |
 |----|----|----|
 | Display | 110 | 130 |
 | Body | 150 | 170 |
@@ -39,6 +40,5 @@ Not applicable
 * Figma
 * Design documentation
 * Swingset
-
 
 
