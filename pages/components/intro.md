@@ -4,11 +4,8 @@ Version 1.0.0
 
 **Purpose:** Use to introduce a topic and encourage call-to-action.
 
-## Changelog
 
-### Aug 09, 2022
-
-* Updated eyebrow styling from `label` to `body`
+---
 
 ## Props
 
@@ -36,10 +33,16 @@ Not applicable
 | Display | 40 | 55 |
 | Body | 175 | 300 |
 
+## Changelog
+
+### Aug 09, 2022
+
+* Updated eyebrow styling from `label` to `body`
+
 ## Links
 
-* Figma
-* Design documentation
-* Swingset
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=536%3A702)
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/intro)
+* [Swingset](https://react-components.vercel.app/components/intro)
 
 
