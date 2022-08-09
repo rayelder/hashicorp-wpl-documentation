@@ -1,28 +1,30 @@
 Version 1.0.0
 
 
-
 ---
 
-# KeyBenefits
+# Actions
 
 ## Purpose
 
-To promote product or solution key benefits.
+Use to promote next call-to-action.
 
 ## Rules
 
-* TBD
+* No more than 2 calls-to-actions
 
 ## Props
 
 | Name | Type | Description |
 |----|----|----|
-|    |    |    |
+| `type` | string | Controls the call-to-action styling. **Options:** “Button”, “StandaloneLink”, “Mixed” |
+| `appearance` | string | Display Actions component on light or dark backgrounds. **Options:** “light”, “dark” |
+| `isStacked` | boolean | Stack buttons or StandaloneLinks vertically. Default is `False` |
+| `showSecondary` | boolean | Show or hide secondary call-to-action. Default is `False` |
 
 ## States
 
-* TBD
+Not applicable
 
 ## UX writing guidelines
 
@@ -38,12 +40,13 @@ To promote product or solution key benefits.
 
 ### Aug 9, 2022
 
-* Added Ben’s image variant
+* Removed `linkCount` limiting to only 2 calls-to-action
+* Updated colors for “light” and “dark” appearance
+* Simplified Figma component properties
 
 ## Links
 
-* Figma
-* Design documentation
-* Swingset
-
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=537%3A891)
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/actions)
+* [Swingset](https://react-components.vercel.app/components/actions)
 
