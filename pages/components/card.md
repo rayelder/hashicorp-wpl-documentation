@@ -4,6 +4,8 @@ Limited use: Industry pages only
 
 :::
 
+Version 1.0.0
+
 # Card
 
 **Purpose:** Use to promote a single marketing page.
@@ -43,7 +45,7 @@ Limited use: Industry pages only
 
 | Content | Character minimum | Char maximum |
 |----|----|----|
-| Display  | 110 | 130 |
-| Body  | 150 | 170 |
+| Display | 110 | 130 |
+| Body | 150 | 170 |
 
 
