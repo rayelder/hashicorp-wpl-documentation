@@ -1,27 +1,26 @@
 Version 1.0.0
 
-## Actions
+## CTACard
 
 ## Purpose
 
-Use to promote next call-to-action.
+To promote a specific product offering.
 
 ## Rules
 
-* No more than 2 calls-to-actions
+* TBD
 
 ## Props
 
 | Name | Type | Description |
 |----|----|----|
 | `type` | string | Controls the call-to-action styling. **Options:** “Button”, “StandaloneLink”, “Mixed” |
-| `appearance` | string | Display Actions component on light or dark backgrounds. **Options:** “light”, “dark” |
-| `isStacked` | boolean | Stack buttons or StandaloneLinks vertically. Default is `False` |
-| `showSecondary` | boolean | Show or hide secondary call-to-action. Default is `False` |
 
 ## States
 
-Not applicable
+* enabled
+* hover
+* focus
 
 ## UX writing guidelines
 
@@ -31,20 +30,20 @@ Not applicable
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| TBD |    |    |
+| `title` | 10 | 15 |
+| `sub-title` | 15 | 20 |
+| `description` | 45 | 55 |
 
 ## Changelog
 
 ### Aug 9, 2022
 
-* Removed `linkCount` limiting to only 2 calls-to-action
-* Updated colors for “light” and “dark” appearance
-* Simplified Figma component properties
+* Component clean up and documentation
 
 ## Links
 
-* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=537%3A891)
-* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/actions)
-* [Swingset](https://react-components.vercel.app/components/actions)
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=1360%3A7183)
+* Design documentation
+* ~~Swingset~~
 
 
