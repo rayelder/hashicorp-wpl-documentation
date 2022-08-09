@@ -1,5 +1,8 @@
 Version 1.0.0
 
+
+---
+
 # CTACard
 
 ## Purpose
@@ -18,9 +21,9 @@ To promote a specific product offering.
 
 ## States
 
-* enabled
-* hover
-* focus
+* `enabled`
+* `hover`
+* `focus`
 
 ## UX writing guidelines
 
@@ -43,7 +46,7 @@ To promote a specific product offering.
 ## Links
 
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=1360%3A7183)
-* Design documentation
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/cta-card)
 * ~~Swingset~~
 
 
