@@ -12,11 +12,15 @@ export default {
   ),
   head: (
     <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta name="description" content="HashiCorp - Web pattern library" />
+      <meta name="og:title" content="HashiCorp - Web pattern library" />
     </>
   ),
   search: true,
   prevLinks: false,
   nextLinks: false,
   footer: false,
-  unstable_faviconGlyph: '📄',
+  floatTOC: true,
+  darkMode: true,
 }
