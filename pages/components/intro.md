@@ -1,4 +1,4 @@
-Version 1.0.2
+Version 1.0.3
 
 # Intro
 
@@ -52,6 +52,7 @@ Aug 09, 2022
 
 * Fixed gap spacing across all breakpoints
 * Updated eyebrow styling to `body/large/bold` using `neutral/500`. [Approved by Coon Lam](https://hashicorp.slack.com/archives/C02BPN64LSG/p1659969972606119)
+* Make heading and description responsive
 
 ## Links
 
