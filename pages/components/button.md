@@ -54,7 +54,7 @@ To navigate, submit a form, or trigger an action.
 
 ### Aug 10, 2022
 
-* Combined <Button /> and <ProductButton /> into a single Figma component
+* Combined `Button` and `ProductButton` into a single Figma component
 * Simplified props to accommodate current and future usage
 
 ## Links
