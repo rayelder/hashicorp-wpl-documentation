@@ -60,7 +60,7 @@ To navigate, submit a form, or trigger an action.
 ## Links
 
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/OMEgzrp0nOtVags6nwQCyq/Components?node-id=102%3A47)
-* Design documentation
-* Swingset
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/button)
+* [Swingset](https://react-components.vercel.app/components/button)
 
 
