@@ -42,6 +42,7 @@ To navigate, submit a form, or trigger an action.
 * Limit to 3 words
 * Do not use an ampersand
 * Avoid the use of “Learn more”
+* Use `clickTrigger` text for `aria-label`
 
 ### Character limits
 
