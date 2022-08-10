@@ -21,11 +21,13 @@ To navigate, submit a form, or trigger an action.
 | Name | Type | Description |
 |----|----|----|
 | `isPrimary` | `boolean` |    |
-| `title` | `string` |    |
+| `label` | `string` |    |
 | `showIcon` | `boolean` |    |
 | `icon` | `string` |    |
 | `appearance` | `string` |    |
 | `color` | `string` |    |
+| `showClickTrigger` | `boolean` |    |
+| `clickTrigger` | `string` |    |
 
 ## States
 
@@ -37,7 +39,7 @@ To navigate, submit a form, or trigger an action.
 
 ## UX writing guidelines
 
-* Use Sentence case capitalization
+* Use [Sentence case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/sentence-case)
 * Lead the call-to-action with a verb
 * Limit to 3 words
 * Do not use an ampersand
@@ -48,14 +50,16 @@ To navigate, submit a form, or trigger an action.
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `label` |    |    |
+| `label` | ? | ? |
+| `clickTrigger` | ? | ? |
 
 ## Changelog
 
 ### Aug 10, 2022
 
 * Combined `Button` and `ProductButton` into a single Figma component
-* Simplified props to accommodate current and future usage
+* Added `clickTrigger` text feature
+* Refined props to accommodate current and future usage
 
 ## Links
 
