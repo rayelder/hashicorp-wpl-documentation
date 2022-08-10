@@ -2,5 +2,5 @@
     "actions": "Actions",
     "card": "Card",
     "cta-card": "CTACard",
-    "intro": "Intro"
-  }
+    "components/intro": "Intro"
+}
