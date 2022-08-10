@@ -1,5 +1,6 @@
 {
     "actions": "Actions",
+    "button": "Button",
     "card": "Card",
     "cta-card": "CTACard",
     "components/intro": "Intro"
