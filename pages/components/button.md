@@ -35,7 +35,11 @@ To navigate, submit a form, or trigger an action.
 
 ## UX writing guidelines
 
-* TBD
+* Use Sentence case capitalization
+* Lead the call-to-action with a verb
+* Limit to 3 words
+* Do not use an ampersand
+* Avoid the use of “Learn more”
 
 ### Character limits
 
