@@ -1,5 +1,7 @@
 Version 1.0.0
 
+:x:
+
 
 
 ---
@@ -47,7 +49,7 @@ To promote product or solution key benefits.
 ## Links
 
 * [Figma](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/branch/gLfWIxUdC56xS1M8z70kbE/Patterns?node-id=1631%3A13269)
-* Design documentation
-* Swingset
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/key-benefits-with-image)
+* ~~Swingset~~
 
 
