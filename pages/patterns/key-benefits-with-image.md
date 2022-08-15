@@ -1,13 +1,14 @@
 Version 1.0.0
 
 
+
 ---
 
 # KeyBenefitsWithImage
 
 ## Purpose
 
-To promote product or solution key benefits.
+To promote product or solution key benefits alongside imagery.
 
 ## Rules
 
@@ -17,11 +18,19 @@ To promote product or solution key benefits.
 
 | Name | Type | Description |
 |----|----|----|
-|    |    |    |
+| `appearance` | `string` |    |
+| `showNumber` | `boolean` |    |
+| `heading` | `string` |    |
+| `description` | `string` |    |
+| `whyHeading` | `string` |    |
+| `why` | `string` |    |
+| `bulletsHeading` | `string` |    |
+| `bullets` | `string` |    |
+| `showImage` | `boolean` | Show or hide the image. |
 
 ## States
 
-* TBD
+* Not applicable
 
 ## UX writing guidelines
 
@@ -37,7 +46,8 @@ To promote product or solution key benefits.
 
 ### Aug 15, 2022
 
--Created `_KeyBenefitsIcon` component for `KeyBenefits` and `KeyBenefitsWithImage` patterns
+* Created `_KeyBenefitsIcon` component for `KeyBenefits` and `KeyBenefitsWithImage` patterns
+* Added `showImage` prop to enable optional image on small breakpoint
 
 ### Aug 9, 2022
 
