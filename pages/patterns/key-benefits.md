@@ -19,7 +19,7 @@ To promote product or solution key benefits
 
 | Name | Type | Description |
 |----|----|----|
-| `appearance` | `string` |    |
+| `appearance` | `string` | Display on light or dark backgrounds. **Options:** “light”, “dark” |
 | `isVertical` | `boolean` | Toggle large breakpoint variant between stacked vertical or horizontal |
 
 ## States
@@ -38,7 +38,7 @@ To promote product or solution key benefits
 | `heading` | 50 | 70 |
 | `description` | 120 | 140 |
 
-[See character limits for Actions component](https://hashicorp-wpl-documentation.vercel.app/components/actions#ux-writing-guidelines)
+[See character limits for Intro component](https://hashicorp-wpl-documentation.vercel.app/components/actions#ux-writing-guidelines)
 
 ## Changelog
 
