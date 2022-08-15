@@ -38,7 +38,7 @@ To promote product or solution key benefits
 | `heading` | 50 | 70 |
 | `description` | 120 | 140 |
 
-[See character limits for Intro component](https://hashicorp-wpl-documentation.vercel.app/components/actions#ux-writing-guidelines)
+[See character limits for Intro component](https://hashicorp-wpl-documentation.vercel.app/components/intro#ux-writing-guidelines)
 
 ## Changelog
 
