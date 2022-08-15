@@ -1,6 +1,7 @@
 Version 1.0.0
 
 
+
 ---
 
 # KeyBenefitsWithImage
@@ -42,7 +43,7 @@ To promote product or solution key benefits.
 ## Links
 
 * Figma
-* Design documentation
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/key-benefits-with-image)
 * Swingset
 
 
