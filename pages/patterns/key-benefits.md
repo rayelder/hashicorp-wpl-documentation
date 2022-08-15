@@ -36,6 +36,11 @@ To promote product or solution key benefits.
 
 ## Changelog
 
+### Aug 15, 2022
+
+* Added `appearance` prop with “light” and “dark” variants
+* Replaced `showCTA` prop with `isVertical`
+
 ### Aug 9, 2022
 
 * Refined breakpoints in preparation for adding image variant
