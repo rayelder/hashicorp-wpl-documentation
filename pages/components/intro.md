@@ -52,7 +52,7 @@ Not applicable
 
 ## Changelog
 
-### Aug 13, 2022
+### Aug 15, 2022
 
 * Updated `appearance` values to “light” and “dark” to be consistent with other components and patterns
 
