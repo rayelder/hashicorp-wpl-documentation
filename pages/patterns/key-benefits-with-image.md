@@ -8,11 +8,11 @@ Version 1.0.0
 
 ## Purpose
 
-To promote product or solution key benefits alongside imagery.
+To promote product or solution key benefits alongside imagery
 
 ## Rules
 
-* TBD
+* Limit of 3 bullets
 
 ## Props
 
@@ -34,13 +34,19 @@ To promote product or solution key benefits alongside imagery.
 
 ## UX writing guidelines
 
-* TBD
+* Focus on writing keyword relevant display titles
+* Target a readability grade level score of 8 to meet plain language guidelines
 
 ### Character limits
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| TBD |    |    |
+| `heading` | 40 | 55 |
+| `description` | 75 | 100 |
+| `whyHeading` | 40 | 55 |
+| `why` | 150 | 170 |
+| `bulletsHeading` | 40 | 55 |
+| `bullets` (each bullet) | 40 | 55 |
 
 ## Changelog
 
