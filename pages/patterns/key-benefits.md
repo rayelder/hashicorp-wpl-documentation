@@ -8,25 +8,28 @@ Version 1.0.0
 
 ## Purpose
 
-To promote product or solution key benefits.
+To promote product or solution key benefits
 
 ## Rules
 
-* TBD
+* Must display at least 2 benefits
+* Limit of 3 benefits
 
 ## Props
 
 | Name | Type | Description |
 |----|----|----|
-|    |    |    |
+| `appearance` | `string` |    |
+| `isVertical` | `boolean` | Toggle large breakpoint variant between stacked vertical or horizontal |
 
 ## States
 
-* TBD
+* Not applicable
 
 ## UX writing guidelines
 
-* TBD
+* Focus on writing keyword relevant display titles
+* Target a readability grade level score of 8 to meet plain language guidelines
 
 ### Character limits
 
