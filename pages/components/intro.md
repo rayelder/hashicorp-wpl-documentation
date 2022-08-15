@@ -1,6 +1,7 @@
 Version 1.0.3
 
 
+
 ---
 
 # Intro
@@ -8,6 +9,7 @@ Version 1.0.3
 ## Purpose
 
 Use to introduce a topic and encourage call-to-action.
+
 
 
 ---
@@ -50,10 +52,14 @@ Not applicable
 
 ## Changelog
 
-Aug 09, 2022
+### Aug 13, 2022
+
+* Updated `appearance` values to “light” and “dark” to be consistent with other components and patterns
+
+### Aug 09, 2022
 
 * Fixed gap spacing across all breakpoints
-* Updated eyebrow styling to `body/large/bold` using `neutral/500`. [Approved by Coon Lam](https://hashicorp.slack.com/archives/C02BPN64LSG/p1659969972606119)
+* Updated eyebrow styling to `body/large/bold` using `neutral/500` [Approved by Coon Lam](https://hashicorp.slack.com/archives/C02BPN64LSG/p1659969972606119)
 * Make heading and description responsive
 
 ## Links
