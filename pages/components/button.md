@@ -45,6 +45,7 @@ To navigate, submit a form, or trigger an action.
 * Do not use an ampersand
 * Avoid the use of “Learn more”
 * Use `clickTrigger` text for `aria-label`
+* `clickTrigger` text should only be used with a single primary button
 
 ### Character limits
 
@@ -54,6 +55,10 @@ To navigate, submit a form, or trigger an action.
 | `clickTrigger` | ? | ? |
 
 ## Changelog
+
+August 15, 2022
+
+* **Team decision:** Replace Flight arrow with custom chevron icon
 
 ### Aug 10, 2022
 
