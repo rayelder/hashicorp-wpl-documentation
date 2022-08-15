@@ -40,6 +40,7 @@ To promote product or solution key benefits.
 
 * Added `appearance` prop with “light” and “dark” variants
 * Replaced `showCTA` prop with `isVertical`
+* Created `_KeyBenefitsIcon` component for `KeyBenefits` and `KeyBenefitsWithImage` patterns
 
 ### Aug 9, 2022
 
