@@ -35,7 +35,10 @@ To promote product or solution key benefits
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| TBD |    |    |
+| `heading` | 50 | 70 |
+| `description` | 120 | 140 |
+
+[See character limits for Actions component](https://hashicorp-wpl-documentation.vercel.app/components/actions#ux-writing-guidelines)
 
 ## Changelog
 
