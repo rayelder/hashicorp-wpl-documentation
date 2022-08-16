@@ -51,8 +51,8 @@ To navigate, submit a form, or trigger an action.
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `label` | ? | ? |
-| `clickTrigger` | ? | ? |
+| `label` | 10 | 30 |
+| `clickTrigger` | 30 | 50 |
 
 ## Changelog
 
