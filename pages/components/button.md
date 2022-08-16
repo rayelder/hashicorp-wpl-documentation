@@ -41,7 +41,7 @@ To navigate, submit a form, or trigger an action.
 
 * Use [Sentence case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/sentence-case)
 * Lead the call-to-action with a verb
-* Limit to 2 words
+* Limit `label` to 3 words
 * Do not use an ampersand
 * Avoid the use of “Learn more”
 * Use `clickTrigger` text for `aria-label`
