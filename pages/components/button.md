@@ -58,9 +58,11 @@ To navigate, submit a form, or trigger an action.
 
 August 15, 2022
 
-* **Team decision:** Replace Flight arrow with custom chevron icon
-* **Team decision:** Don’t allow primary and secondary button pairings. Instead, pair primary or secondary `Button` with `Standalonelink`
-* **Team decision:** Do not strip out product colors
+**Team decisions:**
+
+* Replace Flight arrow with custom chevron icon
+* Don’t allow primary and secondary button pairings. Instead, pair primary or secondary `Button` with `Standalonelink`
+* Do not strip out product colors
 
 ### Aug 10, 2022
 
