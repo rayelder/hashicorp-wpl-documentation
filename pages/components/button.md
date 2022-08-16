@@ -15,6 +15,7 @@ To navigate, submit a form, or trigger an action.
 ## Rules
 
 * Only use at `48px` height
+* Only use chevron icon
 
 ## Props
 
@@ -60,9 +61,10 @@ August 15, 2022
 
 **Team decisions:**
 
-* Replace Flight arrow with custom chevron icon
+* Replace Flight arrow with custom animated chevron icon
 * Don’t allow primary and secondary button pairings. Instead, pair primary or secondary `Button` with `Standalonelink`
 * Do not strip out product colors
+* Only use chevron icon
 
 ### Aug 10, 2022
 
