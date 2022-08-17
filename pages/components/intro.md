@@ -52,6 +52,10 @@ Not applicable
 
 ## Changelog
 
+### Aug 17, 2022
+
+* Aligned auto layout gap to `32px` between `eyebrow` and `heading` [Agreement between Alex, Noel, and Ray via Asana](https://app.asana.com/0/1201874072258661/1202615934597667/f)
+
 ### Aug 15, 2022
 
 * Updated `appearance` values to “light” and “dark” to be consistent with other components and patterns
