@@ -2,6 +2,7 @@
     "actions": "Actions",
     "button": "Button",
     "card": "Card",
+    "close-button": "CloseButton",
     "cta-card": "CTACard",
-    "components/intro": "Intro"
+    "intro": "Intro"
 }
