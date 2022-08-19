@@ -1,6 +1,4 @@
-Version 7.0.0
-
-**In-progress**
+Version 1.0.0
 
 
 
@@ -21,10 +19,9 @@ To navigate, submit a form, or trigger an action.
 
 | Name | Type | Description |
 |----|----|----|
-| `isPrimary` | `boolean` |    |
+| `isSecondary` | `boolean` | Only available on `color: “blue”` |
 | `label` | `string` |    |
-| `showIcon` | `boolean` |    |
-| `icon` | `string` |    |
+| `showArrow` | `boolean` |    |
 | `appearance` | `string` |    |
 | `color` | `string` |    |
 | `showClickTrigger` | `boolean` |    |
@@ -37,6 +34,9 @@ To navigate, submit a form, or trigger an action.
 * active
 * focus
 * disabled
+
+
+View Storybook
 
 ## UX writing guidelines
 
@@ -74,8 +74,14 @@ August 15, 2022
 
 ## Links
 
+### Design
+
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/OMEgzrp0nOtVags6nwQCyq/Components?node-id=102%3A47)
-* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/button)
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button)
+* Storybook
+
+### Development
+
 * [Swingset](https://react-components.vercel.app/components/button)
 
 
