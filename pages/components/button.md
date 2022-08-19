@@ -14,8 +14,8 @@ To navigate, submit a form, or trigger an action.
 
 ## Rules
 
-* Only use at `48px` height
-* Only use chevron icon
+* Use at `48px` height
+* Only arrow icon is allowed
 
 ## Props
 
