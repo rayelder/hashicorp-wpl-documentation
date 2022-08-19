@@ -20,12 +20,12 @@ To navigate, submit a form, or trigger an action.
 | Name | Type | Description |
 |----|----|----|
 | `isSecondary` | `boolean` | Only available on `color: “blue”` |
-| `label` | `string` |    |
-| `showArrow` | `boolean` |    |
-| `appearance` | `string` |    |
-| `color` | `string` |    |
-| `showClickTrigger` | `boolean` |    |
-| `clickTrigger` | `string` |    |
+| `label` | `string` | The text inside the button |
+| `showArrow` | `boolean` | Show or hide the animated chevron to arrow icon |
+| `appearance` | `string` | Toggle styling for light or dark background.**Options:** `"light"`, `"dark"` |
+| `color` | `string` | Styles the button with a color based on a HashiCorp product**Options:** "blue", "black", "boundary", "consul", "nomad", "packer", "terraform", "vagrant", "vault", "waypoint" |
+| `showClickTrigger` | `boolean` | Show or hide the `clickTrigger` text |
+| `clickTrigger` | `string` | Text below button to encourage engagement |
 
 ## States
 
