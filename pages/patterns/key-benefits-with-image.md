@@ -13,6 +13,7 @@ To promote product or solution key benefits alongside imagery
 ## Rules
 
 * Limit of 3 bullets
+* Limit of 5 consecutive instances when using stacked version without imagery
 
 ## Props
 
