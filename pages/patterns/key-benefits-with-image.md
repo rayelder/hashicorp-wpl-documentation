@@ -13,18 +13,18 @@ To promote product or solution key benefits alongside imagery
 ## Rules
 
 * Limit of 3 bullets
-* Limit of 5 consecutive instances when using stacked version without imagery
+* Limit of 6 consecutive instances when using collapsed instance without images
 
 ## Props
 
 | Name | Type | Description |
 |----|----|----|
-| `appearance` | `string` |    |
-| `showNumber` | `boolean` |    |
-| `heading` | `string` |    |
-| `description` | `string` |    |
-| `whyHeading` | `string` |    |
-| `why` | `string` |    |
+| `appearance` | `string` | Display component on light or dark background **Options:** `"light"`, `"dark"` |
+| `showIcon` | `boolean` | Show or hide icon |
+| `showExplanation` | `boolean` | Show or hide explanation section |
+| `explanationHeading` | `string` |    |
+| `explanation` | `string` |    |
+| `showBullets` | `boolean` | Show or hide bullets section |
 | `bulletsHeading` | `string` |    |
 | `bullets` | `string` |    |
 | `showImage` | `boolean` | Show or hide the image. |
@@ -42,14 +42,18 @@ To promote product or solution key benefits alongside imagery
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `heading` | 40 | 55 |
-| `description` | 75 | 100 |
 | `whyHeading` | 40 | 55 |
 | `why` | 150 | 170 |
 | `bulletsHeading` | 40 | 55 |
 | `bullets` (each bullet) | 40 | 55 |
 
 ## Changelog
+
+### Aug 31, 2022
+
+* Replaced `heading` and `description` with Intro component to allow designers to select heading size
+* Added `isCollapsed` and refined `showImage` variants to support HCP use case pages
+* Added `showExplanation` and `showBullets` to allow designers to show or hide specific content sections
 
 ### Aug 15, 2022
 
