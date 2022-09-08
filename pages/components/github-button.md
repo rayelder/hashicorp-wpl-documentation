@@ -42,7 +42,7 @@ Not applicable
 
 ### Sep 8, 2022
 
-* Updated design to match current Button implementation
+* Updated design to match current [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) implementation
 * Added `appearance` for `light` and `dark`
 
 ## Links
