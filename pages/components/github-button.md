@@ -47,8 +47,8 @@ Not applicable
 
 ## Links
 
-* Figma
-* Design documentation
-* Swingset
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/P5hoSR3rIyMqcr8e9GkwvV/Components?node-id=432%3A575)
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/github-button)
+* ~~Swingset~~
 
 
