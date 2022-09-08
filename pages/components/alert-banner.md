@@ -22,9 +22,9 @@ To announce an event or product release
 
 | Name | Type | Description |
 |----|----|----|
-| `product` | string | A lower-case product identifier to pull in respective theme colors. The default is `neutral` `neutral/100` color. Options**:** `neutral`, `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vault`, `vagrant`, `waypoint` |
-| `tag` | string | Tag text before “|” divider |
-| `text` | string | Message text after “|” divider |
+| `product` | string | A lower-case product identifier to pull in respective theme colors. The default is `neutral` `neutral/100` color. Options: `neutral`, `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vault`, `vagrant`, `waypoint` |
+| `tag` | string | Tag text before divider |
+| `text` | string | Message text after divider |
 | `linkText` | string | Link text for call-to-action |
 
 ## States
@@ -49,7 +49,7 @@ Not applicable
 ### Sep 6, 2022
 
 * Created and published Figma component based on current Swingset implementation
-* Nested [CloseButton](https://hashicorp-wpl-documentation.vercel.app/components/close-button) 
+* Nested [CloseButton](https://hashicorp-wpl-documentation.vercel.app/components/close-button)
 
 ## Links
 
