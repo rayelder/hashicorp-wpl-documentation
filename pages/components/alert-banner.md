@@ -22,7 +22,10 @@ To announce an event or product release
 
 | Name | Type | Description |
 |----|----|----|
-| `appearance` | string | Display intro on light or dark backgrounds. **Options:** “light”, “dark” |
+| `product` | string | A lower-case product identifier to pull in respective theme colors. The default is `neutral` `neutral/100` color. Options**:** `neutral`, `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vault`, `vagrant`, `waypoint` |
+| `tag` | string | Tag text before “|” divider |
+| `text` | string | Message text after “|” divider |
+| `linkText` | string | Link text for call-to-action |
 
 ## States
 
@@ -30,28 +33,28 @@ Not applicable
 
 ## UX writing guidelines
 
-* Focus on writing keyword relevant display titles.
-* Target a readability grade level score of 8 to meet plain language guidelines.
-* `eyebrow` text uses [Title case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case)
+* TBD
 
 
 **Character limits**
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `heading` | 40 | 55 |
-| `description` | 175 | 300 |
+| `tag` | TBD | TBD |
+| `text` | TBD | TBD |
+| `linkText` | TBD | TBD |
 
 ## Changelog
 
-### Sep 8, 2022
+### Sep 6, 2022
 
-* TBD
+* Created and published Figma component based on current Swingset implementation
+* Nested [CloseButton](https://hashicorp-wpl-documentation.vercel.app/components/close-button) 
 
 ## Links
 
-* Figma
-* Design documentation
-* Swingset
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=2749%3A11517)
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/alert-banner)
+* [Swingset](https://react-components.vercel.app/components/alertbanner)
 
 
