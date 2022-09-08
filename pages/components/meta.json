@@ -1,8 +1,10 @@
 {
-    "actions": "Actions",
-    "button": "Button",
-    "card": "Card",
-    "close-button": "CloseButton",
-    "cta-card": "CTACard",
-    "intro": "Intro"
+  "actions": "Actions",
+  "alert-banner": "AlertBanner",
+  "button": "Button",
+  "card": "Card",
+  "close-button": "CloseButton",
+  "cta-card": "CTACard",
+  "github-button": "GithubButton",
+  "intro": "Intro"
 }
