@@ -16,7 +16,7 @@ To announce an event or product release
 
 ## Rules
 
-* TBD
+* Hide AlertBanner on small breakpoint
 
 ## Props
 
