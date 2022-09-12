@@ -56,9 +56,14 @@ As navigational element directly following content
 
 ## Links
 
+### Design
+
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=2824%3A11407)
-* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link)
-* [Playground](https://hashicorp-web-presence.vercel.app/playground/standalone-link)
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link)
+* Storybook / [Playground](https://hashicorp-web-presence.vercel.app/playground/standalone-link)
+
+### Development
+
 * ~~Swingset~~
 
 
