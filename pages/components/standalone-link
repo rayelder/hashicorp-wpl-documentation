@@ -1,0 +1,64 @@
+Version 1.0.0
+
+
+
+---
+
+# StandaloneLink
+
+## Purpose
+
+To link are used on their own directly following content.
+
+Links are used as navigational elements. 
+
+
+
+---
+
+## Rules
+
+* They may appear on their own or directly following content
+
+## Props
+
+| Name | Type | Description |
+|----|----|----|
+| `color` | string | Toggle between blue and black variants. **Options:** “blue”, “black” |
+| `appearance` | string | Display  on light or dark backgrounds. **Options:** “light”, “dark” |
+| `label` | string | Call-to-action text |
+| `showArrow` | boolean | Show or hide chevron/arrow |
+| `isSecondary` | boolean | Toggle between primary and secondary variants |
+
+## States
+
+* Enabled
+* Hover
+* Active
+* Focus
+
+## UX writing guidelines
+
+* Target a readability grade level score of 8 to meet plain language guidelines.
+* `label` text uses Sentence case capitalization
+
+
+**Character limits**
+
+| Content | Minimum | Maximum |
+|----|----|----|
+| `label` | TBD | TBD |
+
+## Changelog
+
+### Sep 12, 2022
+
+* Added design documentation
+
+## Links
+
+* Figma
+* Design documentation
+* Swingset
+
+
