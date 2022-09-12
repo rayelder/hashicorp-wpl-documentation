@@ -8,9 +8,7 @@ Version 1.0.0
 
 ## Purpose
 
-To link are used on their own directly following content.
-
-Links are used as navigational elements. 
+As navigational element directly following content
 
 
 
@@ -18,7 +16,7 @@ Links are used as navigational elements.
 
 ## Rules
 
-* They may appear on their own or directly following content
+* They may appear on their own, directly following content,  or in combination with a primary Button
 
 ## Props
 
@@ -39,8 +37,9 @@ Links are used as navigational elements.
 
 ## UX writing guidelines
 
+* Target a maximum of 2-3 words per `label`
 * Target a readability grade level score of 8 to meet plain language guidelines.
-* `label` text uses Sentence case capitalization
+* `label` text uses [Sentence case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/sentence-case)
 
 
 **Character limits**
