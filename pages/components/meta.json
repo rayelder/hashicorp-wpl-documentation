@@ -6,5 +6,6 @@
   "close-button": "CloseButton",
   "cta-card": "CTACard",
   "github-button": "GithubButton",
-  "intro": "Intro"
+  "intro": "Intro",
+  "standalone-link": "StandaloneLink"
 }
