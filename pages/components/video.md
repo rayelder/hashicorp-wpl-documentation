@@ -10,7 +10,7 @@
 
 ## Purpose
 
-Use to feature a video within specific patterns
+To feature a video within a pattern
 
 
 
