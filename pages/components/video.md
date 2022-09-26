@@ -1,4 +1,6 @@
-Version 0.1.0
+**Version:** 0.1.0
+
+**Status:** In design
 
 
 
@@ -60,7 +62,7 @@ Use to feature a video within specific patterns
 ## Links
 
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/qDnReYgTBKGbE2o8TCBMLx/Components?node-id=1707%3A9339)
-* Design documentation
-* Swingset
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/video)
+* ~~Swingset~~
 
 
