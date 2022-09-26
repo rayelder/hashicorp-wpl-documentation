@@ -1,5 +1,6 @@
 {
   "actions": "Actions",
+  "Aside": "Aside",
   "alert-banner": "AlertBanner",
   "button": "Button",
   "card": "Card",
@@ -7,5 +8,6 @@
   "cta-card": "CTACard",
   "github-button": "GithubButton",
   "intro": "Intro",
-  "standalone-link": "StandaloneLink"
+  "standalone-link": "StandaloneLink",
+  "video": "Video"
 }
