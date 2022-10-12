@@ -16,7 +16,8 @@ Version 0.1.0
 
 ## Rules
 
-* TBD
+* The first item and second item are always the `primary` and `secondary` variations respectively.
+* In the `mixed` variation, the [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) always comes second
 
 ## Figma props
 
