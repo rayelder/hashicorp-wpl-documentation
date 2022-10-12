@@ -46,7 +46,13 @@ TBD
 
 ## Usage
 
-* [Intro](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=536%3A702) component
+### Components
+
+* [Intro](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=536%3A702)
+
+### Patterns
+
+* [CallToAction](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=136%3A3)
 
 ## Links
 
