@@ -23,10 +23,10 @@ Version 0.1.0
 
 | Name | Type | Description |
 |----|----|----|
-| `surface` | `variant` |    |
-| `type` | `variant` |    |
-| `isStacked` | `variant` |    |
-| `showSecondary` | `boolean` |    |
+| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `type` | `variant` | Render using StandaloneLink or Button components. **Options:** `StandaloneLink`, `Button`, or `mixed` |
+| `isStacked` | `boolean` | Toggle between horizontal and vertical stacking |
+| `showSecondary` | `boolean` | Show or hide chevron to arrow |
 
 ## States
 
