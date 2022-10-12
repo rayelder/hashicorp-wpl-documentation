@@ -56,6 +56,14 @@ As navigational element directly following content
 
 * Added design documentation
 
+## Used
+
+### Components
+
+* [Actions](https://hashicorp-wpl-documentation.vercel.app/components/actions)
+* [Intro](https://hashicorp-wpl-documentation.vercel.app/components/intro)
+* [Card](https://hashicorp-wpl-documentation.vercel.app/components/card)
+
 ## Links
 
 ### Design
