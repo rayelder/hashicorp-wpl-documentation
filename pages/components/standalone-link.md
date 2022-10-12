@@ -1,4 +1,6 @@
-Version 1.0.0
+Version: 0.1.1
+
+Status: **Ready for use**
 
 
 
@@ -64,6 +66,6 @@ As navigational element directly following content
 
 ### Development
 
-* ~~Swingset~~
+* [Swingset](https://react-components.vercel.app/components/standalonelink)
 
 
