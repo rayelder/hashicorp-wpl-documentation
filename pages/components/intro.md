@@ -1,4 +1,6 @@
-Version 1.0.3
+Version: **0.1.0**
+
+Status: **Not ready to use**
 
 
 
@@ -23,13 +25,13 @@ Use to introduce a topic and encourage call-to-action.
 
 | Name | Type | Description |
 |----|----|----|
-| `appearance` | string | Display intro on light or dark backgrounds. **Options:** “light”, “dark” |
-| `textAlignment` | string | Controls the text alignment rendering. **Options:** “left”, “center” |
+| `page` | string | Display component styling for `page` backgrounds. **Options:** `light`, `strong`. Default is `light` |
+| `textAlignment` | string | Controls the text alignment rendering. **Options:** `left`, center. Default is `left` |
 | `showActions` | boolean | Show or hide Actions component. Default is `True` |
 | `showEyebrow` | boolean | Show or hide eyebrow text. Default is `False` |
 | `eyebrow` | string | Optional text displayed above the `heading` |
 | `heading` | string | Required text displayed within the `heading` element |
-| `headingSize` | number | Display intro on light or dark backgrounds. **Options:** 1, 2, 3 |
+| `display` | number | Display intro on light or dark backgrounds. **Options:** 1, 2, 3 |
 | `description` | string | Required text following the `heading` element |
 
 ## States
@@ -49,8 +51,13 @@ Not applicable
 |----|----|----|
 | `heading` | 40 | 55 |
 | `description` | 175 | 300 |
+| bullet `text` | 80 | ~ |
 
 ## Changelog
+
+### Oct 20, 2022
+
+* Added optional bullets to `textAlignment`: `left`
 
 ### Aug 17, 2022
 
@@ -68,8 +75,13 @@ Not applicable
 
 ## Links
 
+### Design
+
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=536%3A702)
-* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/intro)
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/intro)
+
+### Development
+
 * [Swingset](https://react-components.vercel.app/components/intro)
 
 
