@@ -41,7 +41,7 @@ Not applicable
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `text` | 40 | 55 |
+| `text` | 80 | 160 |
 
 ## Changelog
 
