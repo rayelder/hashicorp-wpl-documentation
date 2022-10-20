@@ -51,7 +51,7 @@ Not applicable
 |----|----|----|
 | `heading` | 40 | 55 |
 | `description` | 175 | 300 |
-| bullet `text` | 80 | ~ |
+| bullet `text` |    | 180 |
 
 ## Changelog
 
