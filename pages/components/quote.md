@@ -10,7 +10,7 @@ Status: **Not ready for use**
 
 ## Purpose
 
-To showcase practitioner or customer social proof.
+To showcase practitioner or customer social proof pull quotes
 
 
 
@@ -18,7 +18,7 @@ To showcase practitioner or customer social proof.
 
 ## Rules
 
-* TBD
+* Can be used as standalone or nested component
 
 ## Figma props
 
@@ -41,7 +41,7 @@ Not applicable
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `heading` | 40 | 55 |
+| `text` | 40 | 55 |
 
 ## Changelog
 
@@ -49,15 +49,19 @@ Not applicable
 
 * Created and documented Quote component
 
+## Used
+
+* QuoteWithLogoGrid pattern
+
 ## Links
 
 ### Design
 
-* Figma
-* Design documentation
+* [Figma](https://www.figma.com/file/qjUZmuby2o8IeeqaTvE6bW/re.add-display-to-quote?node-id=3847%3A11616)
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/quote)
 
 ### Development
 
-* Swingset
+* [Swingset](https://react-components.vercel.app/components/quote)
 
 
