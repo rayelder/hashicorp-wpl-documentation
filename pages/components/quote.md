@@ -51,7 +51,7 @@ Not applicable
 
 ## Used
 
-* QuoteWithLogoGrid pattern
+* [QuoteWithLogoGrid](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=224%3A333) pattern
 
 ## Links
 
