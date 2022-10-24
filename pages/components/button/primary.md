@@ -56,7 +56,7 @@ To navigate, submit a form, or trigger an action.
 
 ### Oct 24, 2022
 
-* Combined with [primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [GitHub](https://hashicorp-wpl-documentation.vercel.app/components/button/github) buttons
+* Combined with [secondary](https://hashicorp-wpl-documentation.vercel.app/components/button/secondary) and [GitHub](https://hashicorp-wpl-documentation.vercel.app/components/button/github) buttons
 * Updated `appearance` to `page`
 * Applied semantic design tokens
 
