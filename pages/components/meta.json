@@ -2,11 +2,9 @@
   "actions": "Actions",
   "aside": "Aside",
   "alert-banner": "AlertBanner",
-  "button": "Button",
   "card": "Card",
   "close-button": "CloseButton",
   "cta-card": "CTACard",
-  "github-button": "GithubButton",
   "intro": "Intro",
   "standalone-link": "StandaloneLink",
   "video": "Video"
