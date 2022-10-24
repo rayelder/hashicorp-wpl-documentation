@@ -30,6 +30,8 @@ To navigate, submit a form, or trigger an action.
 
 ## States
 
+[See playground for proposed interaction states](https://hashicorp-web-presence.vercel.app/playground/button)
+
 * enabled
 * hover
 * active
