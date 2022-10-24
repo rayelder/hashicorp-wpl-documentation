@@ -1,4 +1,4 @@
-Version **0.1.0**
+Version: 0.1.0
 
 Status: **Not ready to use**
 
@@ -56,7 +56,7 @@ To navigate, submit a form, or trigger an action.
 * Updated `appearance` to `page`
 * Applied semantic design tokens
 
-### August 15, 2022
+### Aug 15, 2022
 
 **Team decisions:**
 
@@ -77,7 +77,6 @@ To navigate, submit a form, or trigger an action.
 
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/OMEgzrp0nOtVags6nwQCyq/Components?node-id=102%3A47)
 * [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button)
-* Storybook
 
 ### Development
 
