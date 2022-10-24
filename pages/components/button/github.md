@@ -1,10 +1,10 @@
-Version 1.0.0
+Version 0.1.0
 
 
 
 ---
 
-# GithubButton
+# Github button
 
 ## Purpose
 
@@ -19,13 +19,13 @@ Version 1.0.0
 
 * TBD
 
-## Props
+## Figma props
 
 | Name | Type | Description |
 |----|----|----|
-| `appearance` | string | Display intro on light or dark backgrounds. **Options:** “light”, “dark” |
-| `showCount` | boolean | Show and hide Github star count |
-| `count` | number | Github star count number without formatting |
+| `page` | `variant` | Display component on `page` backgrounds. **Options:** `light` or `strong` |
+| `showCount` | `boolean` | Show and hide Github star count. Default is `True` |
+| `count` | `text` | Github star count number without formatting |
 
 ## States
 
