@@ -1,4 +1,6 @@
-Version 1.0.0
+Version: 0.1.0
+
+Status: **Not ready of use**
 
 
 
@@ -15,16 +17,15 @@ To navigate, submit a form, or trigger an action.
 * Use at `48px` height
 * Only arrow icon is allowed
 
-## Props
+## Figma props
 
 | Name | Type | Description |
 |----|----|----|
-| `isSecondary` | `boolean` | Only available on `color: “blue”` |
-| `label` | `string` | The text inside the button |
+| `text` | `text` | The call-to-action text for the button |
 | `showArrow` | `boolean` | Show or hide the animated chevron to arrow icon |
-| `appearance` | `string` | Toggle styling for light or dark background.**Options:** `"light"`, `"dark"` |
-| `color` | `string` | Styles the button with a color based on a HashiCorp product**Options:** "blue", "black", "boundary", "consul", "nomad", "packer", "terraform", "vagrant", "vault", "waypoint" |
-| `showClickTrigger` | `boolean` | Show or hide the `clickTrigger` text |
+| `page` | `variant` | Toggle styling for light or dark background.**Options:** `light`, `strong` |
+| `surface` | `variant` | Sets the button background and foreground colors based on usage. **Options:** `action`, `strong`, `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, `waypoint`. Default is `action` |
+| `showClickTrigger` | `boolean` | Show or hide the `clickTrigger` text. Default is `False` |
 | `clickTrigger` | `string` | Text below button to encourage engagement |
 
 ## States
@@ -33,10 +34,6 @@ To navigate, submit a form, or trigger an action.
 * hover
 * active
 * focus
-* disabled
-
-
-View Storybook
 
 ## UX writing guidelines
 
@@ -52,7 +49,7 @@ View Storybook
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `label` | 10 | 30 |
+| `text` | 10 | 30 |
 | `clickTrigger` | 30 | 50 |
 
 ## Changelog
