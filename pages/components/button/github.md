@@ -1,4 +1,6 @@
-Version 0.1.0
+Version: 0.1.0
+
+Status: **Not ready of use**
 
 
 
@@ -58,7 +60,7 @@ Not applicable
 ### Design
 
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3920%3A11746)
-* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/github)
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/github)
 
 ### Development
 
