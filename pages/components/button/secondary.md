@@ -17,19 +17,17 @@ To navigate, submit a form, or trigger an action.
 * Use at `48px` height
 * Only chevron icon is allowed
 
-## Props
+## Figma props
 
 | Name | Type | Description |
 |----|----|----|
-| `isSecondary` | `boolean` | Only available on `color: “blue”` |
-| `label` | `string` | The text inside the button |
+| `text` | `text` | The call-to-action text for the button |
 | `showArrow` | `boolean` | Show or hide the animated chevron to arrow icon |
-| `appearance` | `string` | Toggle styling for light or dark background.**Options:** `"light"`, `"dark"` |
-| `color` | `string` | Styles the button with a color based on a HashiCorp product**Options:** "blue", "black", "boundary", "consul", "nomad", "packer", "terraform", "vagrant", "vault", "waypoint" |
-| `showClickTrigger` | `boolean` | Show or hide the `clickTrigger` text |
-| `clickTrigger` | `string` | Text below button to encourage engagement |
+| `page` | `variant` | Toggle styling for light or dark background.**Options:** `"light"`, `"dark"` |
 
 ## States
+
+[See playground for proposed interaction states](https://hashicorp-web-presence.vercel.app/playground/button)
 
 * enabled
 * hover
