@@ -1,10 +1,12 @@
-Version 1.0.0
+Version **0.1.0**
+
+Status: **Not ready to use**
 
 
 
 ---
 
-# Button
+# Secondary button
 
 ## Purpose
 
@@ -13,7 +15,7 @@ To navigate, submit a form, or trigger an action.
 ## Rules
 
 * Use at `48px` height
-* Only arrow icon is allowed
+* Only chevron icon is allowed
 
 ## Props
 
@@ -33,31 +35,30 @@ To navigate, submit a form, or trigger an action.
 * hover
 * active
 * focus
-* disabled
-
-
-View Storybook
 
 ## UX writing guidelines
 
 * Use [Sentence case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/sentence-case)
 * Lead the call-to-action with a verb
-* Limit `label` to 3 words
+* Limit call-to-action `text` to 3 words
 * Do not use an ampersand
 * Avoid the use of “Learn more”
-* Use `clickTrigger` text for `aria-label`
-* `clickTrigger` text should only be used with a single primary button
 
 ### Character limits
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `label` | 10 | 30 |
-| `clickTrigger` | 30 | 50 |
+| `text` | 10 | 30 |
 
 ## Changelog
 
-August 15, 2022
+### Oct 24, 2022
+
+* Combined with [primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [GitHub](https://hashicorp-wpl-documentation.vercel.app/components/button/github) buttons
+* Updated `appearance` to `page`
+* Applied semantic design tokens
+
+### August 15, 2022
 
 **Team decisions:**
 
