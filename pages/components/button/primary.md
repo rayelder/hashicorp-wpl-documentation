@@ -30,8 +30,6 @@ To navigate, submit a form, or trigger an action.
 
 ## States
 
-[See playground for proposed interaction states](https://hashicorp-web-presence.vercel.app/playground/button)
-
 * enabled
 * hover
 * active
@@ -56,7 +54,13 @@ To navigate, submit a form, or trigger an action.
 
 ## Changelog
 
-August 15, 2022
+### Oct 24, 2022
+
+* Combined with [primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [GitHub](https://hashicorp-wpl-documentation.vercel.app/components/button/github) buttons
+* Updated `appearance` to `page`
+* Applied semantic design tokens
+
+### Aug 15, 2022
 
 **Team decisions:**
 
@@ -77,7 +81,6 @@ August 15, 2022
 
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/OMEgzrp0nOtVags6nwQCyq/Components?node-id=102%3A47)
 * [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button)
-* Storybook
 
 ### Development
 
