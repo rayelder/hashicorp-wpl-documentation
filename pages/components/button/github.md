@@ -29,6 +29,8 @@ Version 0.1.0
 
 ## States
 
+[See playground for proposed interaction states](https://hashicorp-web-presence.vercel.app/playground/button)
+
 * Enabled
 * Hover
 * Active
@@ -40,6 +42,12 @@ Not applicable
 
 ## Changelog
 
+### Oct 24, 2022
+
+* Combined with [primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [secondary](https://hashicorp-wpl-documentation.vercel.app/components/button/secondary) buttons
+* Updated `appearance` to `page`
+* Applied semantic design tokens
+
 ### Sep 8, 2022
 
 * Updated design to match current [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) implementation
@@ -47,8 +55,13 @@ Not applicable
 
 ## Links
 
-* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/P5hoSR3rIyMqcr8e9GkwvV/Components?node-id=432%3A575)
-* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/github-button)
+### Design
+
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3920%3A11746)
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/github)
+
+### Development
+
 * ~~Swingset~~
 
 
