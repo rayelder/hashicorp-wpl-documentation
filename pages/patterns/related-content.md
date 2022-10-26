@@ -10,7 +10,7 @@ Status: **Not ready of use**
 
 ## Purpose
 
-To ?
+To showcase content of a specific type. (i.e. Customer story)
 
 ## Rules
 
@@ -20,7 +20,7 @@ To ?
 
 | Name | Type | Description |
 |----|----|----|
-| `breakpoint` | `variant` | The call-to-action text for the button |
+| `breakpoint` | `variant` | Toggle between `small`,`medium`, and `large` breakpoint designs |
 | `page` | `variant` | Toggle styling for light or dark background.**Options:** `light`, `faint`, `strong`, `action-faint` |
 
 ## States
@@ -42,10 +42,10 @@ Defined by Card variants and InlineLink.
 ### Design
 
 * Figma
-* Documentation
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/related-content)
 
 ### Development
 
-* Swingset
+* [Swingset](https://react-components.vercel.app/components/relatedcontent)
 
 
