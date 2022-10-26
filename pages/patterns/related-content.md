@@ -41,7 +41,7 @@ Defined by Card variants and InlineLink.
 
 ### Design
 
-* Figma
+* [Figma](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=997%3A8520)
 * [Documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/related-content)
 
 ### Development
