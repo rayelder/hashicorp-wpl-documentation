@@ -36,6 +36,7 @@ Defined by Card variants and InlineLink.
 ### Oct 26, 2022
 
 * Updated using new Card variants
+* Applied `page` design token for background colors
 
 ## Links
 
