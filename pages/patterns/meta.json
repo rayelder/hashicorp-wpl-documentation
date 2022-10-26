@@ -1,4 +1,6 @@
 {
-    "key-benefits": "KeyBenefits",
-    "key-benefits-with-image": "KeyBenefitsWithImage"
+  "key-benefits": "KeyBenefits",
+  "key-benefits-with-image": "KeyBenefitsWithImage",
+  "products-used": "ProductsUsed",
+  "related-content": "RelatedContent"
 }
