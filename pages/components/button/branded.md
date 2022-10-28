@@ -54,7 +54,7 @@ Not applicable
 ### Design
 
 * Figma
-* Documentation
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/branded)
 
 ### Development
 
