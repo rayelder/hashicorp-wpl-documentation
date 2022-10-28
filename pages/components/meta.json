@@ -2,10 +2,13 @@
   "actions": "Actions",
   "aside": "Aside",
   "alert-banner": "AlertBanner",
+  "button": "Button",
   "card": "Card",
   "close-button": "CloseButton",
   "cta-card": "CTACard",
   "intro": "Intro",
+  "quote": "Quote",
   "standalone-link": "StandaloneLink",
-  "video": "Video"
+  "video": "Video",
+  "video-thumbnail": "VideoThumbnail"
 }
