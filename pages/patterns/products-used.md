@@ -26,8 +26,8 @@ Status: **Not ready of use**
 | Name | Type | Description |
 |----|----|----|
 | `page` | `variant` | Display component on `page` backgrounds. **Options:** `light` or `strong` |
-| `state` | `variant` | Show and hide Github star count. Default is `True` |
-|    |    |    |
+| `isInteractive` | `boolean` | Toggle [Branded button](https://hashicorp-wpl-documentation.vercel.app/components/button/branded) from `enabled` to `disabled`. Default is `True` |
+| `label` | `text` | Contextual label above buttons. Default is “Products used” |
 
 ## States
 
