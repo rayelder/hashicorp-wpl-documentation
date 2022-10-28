@@ -25,11 +25,9 @@ Status: **Not ready of use**
 | Name | Type | Description |
 |----|----|----|
 | `page` | `variant` | Display component on `page` backgrounds. **Options:** `light` or `strong` |
-| `state` | `variant` | Show and hide Github star count. Default is `True` |
+| `state` | `variant` | Toggle between `enabled` and `disabled` states. **Default:** `enabled` |
 
 ## States
-
-[See playground for proposed interaction states](https://hashicorp-web-presence.vercel.app/playground/button)
 
 * Enabled
 * Hover
@@ -53,7 +51,7 @@ Not applicable
 
 ### Design
 
-* Figma
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3920%3A11746)
 * [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/branded)
 
 ### Development
