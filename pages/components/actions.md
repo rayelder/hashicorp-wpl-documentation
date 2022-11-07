@@ -38,6 +38,11 @@ TBD
 
 ## Changelog
 
+### Nov 7, 2002
+
+* Updated [Button](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) components
+* Updated documentation
+
 ### Oct 12, 2022
 
 * Documented component
@@ -53,6 +58,7 @@ TBD
 ### Patterns
 
 * [CallToAction](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=136%3A3)
+* [Hero](https://hashicorp-wpl-documentation.vercel.app/patterns/hero)
 
 ## Links
 
