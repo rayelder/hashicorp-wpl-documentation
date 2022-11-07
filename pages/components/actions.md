@@ -40,7 +40,7 @@ TBD
 
 ### Nov 7, 2002
 
-* Updated [Button](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) components
+* Updated [Button](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) nested components
 * Updated documentation
 
 ### Oct 12, 2022
