@@ -10,7 +10,7 @@ Status: **Not ready for use**
 
 ## Purpose
 
-* TBD
+* DatoCMS authorable hero pattern for [hashicorp.com](https://www.hashicorp.com/) homepage
 
 
 
@@ -18,20 +18,20 @@ Status: **Not ready for use**
 
 ## Rules
 
-* TBD
+* Only 2 calls-to-action
 
 ## Figma props
 
 | Name | Type | Description |
 |----|----|----|
-| `breakpoint` | `variant` |    |
-| `page` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
-| `showEyebrow` | `boolean` |    |
-| `showInlineVideo` | `boolean` |    |
+| `breakpoint` | `variant` | Render specific breakpoint variants. **Options**: `small`, `medium`, `large`. Default is `large`. |
+| `page` | `variant` | Render component on specific background color. **Options:** `light`, `strong`. Default is `strong` |
+| `showEyebrow` | `boolean` | Show or hide EyebrowWithPattern component. Default is `True`. |
+| `showInlineVideo` | `boolean` | Show or hide InlineVideo component over background image. Default is `False`. |
 
 ## States
 
-Not applicable. Interactions defined by [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) components.
+Not applicable. Interactions defined by [Button](https://hashicorp-wpl-documentation.vercel.app/components/button), [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link), and InlineVideo components.
 
 ## UX writing guidelines
 
@@ -54,8 +54,8 @@ None
 
 ### Design
 
-* Figma
-* Documentation
+* ~~Figma~~
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/hero)
 
 ### Development
 
