@@ -18,6 +18,7 @@ Status: **Not ready for use**
 
 ## Rules
 
+* `background-color` CSS property editable via DatoCMS
 * Only 2 calls-to-action
 
 ## Figma props
