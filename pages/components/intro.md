@@ -1,6 +1,6 @@
 Version: **0.1.0**
 
-Status: **Not ready to use**
+Status: **Ready for use**
 
 
 
@@ -10,7 +10,7 @@ Status: **Not ready to use**
 
 ## Purpose
 
-Use to introduce a topic and encourage call-to-action.
+To introduce a topic and encourage call-to-action
 
 
 
@@ -54,6 +54,10 @@ Not applicable
 | bullet `text` |    | 180 |
 
 ## Changelog
+
+### Nov 8, 2022
+
+* Removed `showBullet` on `_Bullet` nested component
 
 ### Oct 20, 2022
 
