@@ -1,4 +1,6 @@
-Version 0.1.0
+Version: **0.1.0**
+
+Status: **Ready for use**
 
 
 
@@ -8,7 +10,7 @@ Version 0.1.0
 
 ## Purpose
 
-* To render primary and secondary calls-to-action
+To render primary and secondary calls-to-action
 
 
 
@@ -46,7 +48,7 @@ TBD
 ### Oct 12, 2022
 
 * Documented component
-* Fixed props on strong backgrounds
+* Fixed props on `strong` backgrounds
 * Added nested component props
 
 ## Usage
