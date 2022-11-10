@@ -6,7 +6,7 @@ Status: **Work-in-progress**
 
 ## Purpose
 
-- To render an optimized brand pattern across breakpoints
+To render an optimized SVG brand pattern across breakpoints
 
 ---
 

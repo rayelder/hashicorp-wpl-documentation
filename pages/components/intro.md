@@ -6,7 +6,7 @@ Status: **Ready for use**
 
 ## Purpose
 
-To introduce a topic and encourage call-to-action
+To introduce a topic and encourage call-to-action interaction
 
 ---
 

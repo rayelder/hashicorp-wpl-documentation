@@ -1,12 +1,10 @@
 {
   "actions": "Actions",
-  "aside": "Aside",
   "alert-banner": "AlertBanner",
+  "aside": "Aside",
   "brand-pattern": "BrandPattern",
   "button": "Button",
   "card": "Card",
-  "close-button": "CloseButton",
-  "cta-card": "CTACard",
   "intro": "Intro",
   "quote": "Quote",
   "standalone-link": "StandaloneLink",

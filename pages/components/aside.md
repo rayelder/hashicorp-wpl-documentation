@@ -6,7 +6,7 @@ Status: **Work-in-progress**
 
 ## Purpose
 
-- To render a highlighted box of content in long-form content
+To render a highlighted box of content in long-form content
 
 ---
 
