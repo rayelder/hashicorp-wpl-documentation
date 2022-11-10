@@ -1,8 +1,4 @@
-Version: **0.1.0**
-
-Status: **Not ready for use**
-
-
+Status: **Work-in-progress**
 
 ---
 
@@ -12,21 +8,19 @@ Status: **Not ready for use**
 
 To showcase practitioner or customer social proof pull quotes
 
-
-
 ---
 
 ## Rules
 
-* Can be used as standalone or nested component
+- Can be used as standalone or nested component
 
 ## Figma props
 
-| Name | Type | Description |
-|----|----|----|
-| `page` | string | Controls component styling on different `page` backgrounds. **Options:** `light` or `strong`. Default is `light` |
-| `display` | string | Controls the display size.**Options:** `display-5` or `display-4`. Default is `display-5` |
-| `showTopQuote` | boolean | Show or hide top quotemark SVG. Default is `False` |
+| Name           | Type    | Description                                                                                                      |
+| -------------- | ------- | ---------------------------------------------------------------------------------------------------------------- |
+| `page`         | string  | Controls component styling on different `page` backgrounds. **Options:** `light` or `strong`. Default is `light` |
+| `display`      | string  | Controls the display size.**Options:** `display-5` or `display-4`. Default is `display-5`                        |
+| `showTopQuote` | boolean | Show or hide top quotemark SVG. Default is `False`                                                               |
 
 ## States
 
@@ -34,34 +28,31 @@ Not applicable
 
 ## UX writing guidelines
 
-* TBD
-
+- TBD
 
 **Character limits**
 
 | Content | Minimum | Maximum |
-|----|----|----|
-| `text` | 80 | 160 |
+| ------- | ------- | ------- |
+| `text`  | 80      | 160     |
 
 ## Changelog
 
 ### Oct 20, 2022
 
-* Created and documented Quote component
+- Created and documented Quote component
 
 ## Where is it used?
 
-* [QuoteWithLogoGrid](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=224%3A333) pattern
+- [QuoteWithLogoGrid](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=224%3A333) pattern
 
 ## Links
 
 ### Design
 
-* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3847%3A11616)
-* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/quote)
+- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3847%3A11616)
+- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/quote)
 
 ### Development
 
-* [Swingset](https://react-components.vercel.app/components/quote)
-
-
+- [Swingset](https://react-components.vercel.app/components/quote)

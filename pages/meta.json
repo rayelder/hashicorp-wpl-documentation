@@ -1,4 +1,6 @@
 {
   "index": "Introduction",
-  "get-started": "Get started"
+  "guides": "Guides",
+  "components": "Components",
+  "patterns": "Patterns"
 }

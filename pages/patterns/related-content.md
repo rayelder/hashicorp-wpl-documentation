@@ -1,8 +1,4 @@
-Version: 0.1.0
-
-Status: **Not ready of use**
-
-
+Status: **Work-in-progress**
 
 ---
 
@@ -14,14 +10,14 @@ To showcase content of a specific type. (i.e. Customer story)
 
 ## Rules
 
-* TBD
+- TBD
 
 ## Figma props
 
-| Name | Type | Description |
-|----|----|----|
-| `breakpoint` | `variant` | Toggle between `small`,`medium`, and `large` breakpoint designs |
-| `page` | `variant` | Toggle styling for light or dark background.**Options:** `light`, `faint`, `strong`, `action-faint` |
+| Name         | Type      | Description                                                                                         |
+| ------------ | --------- | --------------------------------------------------------------------------------------------------- |
+| `breakpoint` | `variant` | Toggle between `small`,`medium`, and `large` breakpoint designs                                     |
+| `page`       | `variant` | Toggle styling for light or dark background.**Options:** `light`, `faint`, `strong`, `action-faint` |
 
 ## States
 
@@ -29,24 +25,22 @@ Defined by Card variants and InlineLink.
 
 ## UX writing guidelines
 
-* TBD
+- TBD
 
 ## Changelog
 
 ### Oct 26, 2022
 
-* Updated using new Card variants
-* Applied `page` design token for background colors
+- Updated using new Card variants
+- Applied `page` design token for background colors
 
 ## Links
 
 ### Design
 
-* [Figma](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=997%3A8520)
-* [Documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/related-content)
+- [Figma](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=997%3A8520)
+- [Documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/related-content)
 
 ### Development
 
-* [Swingset](https://react-components.vercel.app/components/relatedcontent)
-
-
+- [Swingset](https://react-components.vercel.app/components/relatedcontent)

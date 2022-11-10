@@ -1,6 +1,4 @@
-Version 0.0.1
-
-
+Status: **Work-in-progress**
 
 ---
 
@@ -8,22 +6,20 @@ Version 0.0.1
 
 ## Purpose
 
-* To render a highlighted box of content in long-form content
-
-
+- To render a highlighted box of content in long-form content
 
 ---
 
 ## Rules
 
-* TBD
+- TBD
 
 ## Props
 
-| Name | Type | Description |
-|----|----|----|
-| `type` | `string` | Message type displayed. **Default:** `info`. **Options:** `info`, `success`, `warning`, `danger` |
-| `children` | `function` | Children to render in the parent block |
+| Name       | Type       | Description                                                                                      |
+| ---------- | ---------- | ------------------------------------------------------------------------------------------------ |
+| `type`     | `string`   | Message type displayed. **Default:** `info`. **Options:** `info`, `success`, `warning`, `danger` |
+| `children` | `function` | Children to render in the parent block                                                           |
 
 ## States
 
@@ -37,21 +33,19 @@ Not applicable
 
 ### Sep 19, 2022
 
-* Created component in Figma library
+- Created component in Figma library
 
 ## Usage
 
-* [cloud.hashicorp.com/api-docs/packer](https://cloud.hashicorp.com/api-docs/packer), click “Expand”
+- [cloud.hashicorp.com/api-docs/packer](https://cloud.hashicorp.com/api-docs/packer), click “Expand”
 
 ## Links
 
 ### Design
 
-* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3041%3A9437)
-* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/aside)
+- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3041%3A9437)
+- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/aside)
 
 ### Development
 
-* [Swingset](https://react-components.vercel.app/components/aside)
-
-
+- [Swingset](https://react-components.vercel.app/components/aside)
