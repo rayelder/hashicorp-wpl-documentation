@@ -36,7 +36,7 @@ To introduce a topic and encourage call-to-action
 
 ## States
 
-Not applicable
+Not applicable. [Button](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) define interaction states.
 
 ## UX writing guidelines
 
@@ -58,6 +58,7 @@ Not applicable
 ### Nov 8, 2022
 
 * Removed `showBullet` on `_Bullet` nested component
+* Updated Figma documentation
 
 ### Oct 20, 2022
 
