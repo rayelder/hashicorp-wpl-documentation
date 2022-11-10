@@ -32,13 +32,17 @@ To render primary and secondary calls-to-action
 
 ## States
 
-Not applicable. Interactions defined by [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) components.
+**None.** Interaction states defined by [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) components.
 
 ## UX writing guidelines
 
 TBD
 
 ## Changelog
+
+### Nov 9, 2002
+
+* Updated Figma documentation
 
 ### Nov 7, 2002
 
