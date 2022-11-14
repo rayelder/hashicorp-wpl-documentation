@@ -3,5 +3,7 @@
   "primary": "Primary",
   "secondary": "Secondary",
   "branded": "Branded",
-  "github": "GitHub"
+  "close": "Close",
+  "github": "GitHub",
+  "play": "Play"
 }
