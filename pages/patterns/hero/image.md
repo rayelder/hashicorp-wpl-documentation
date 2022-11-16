@@ -2,6 +2,7 @@ Updated: Nov 17, 2022
 Status: **Not ready for use**
 
 
+
 ---
 
 # HeroImage
@@ -11,6 +12,7 @@ Status: **Not ready for use**
 To promote ?
 
 
+
 ---
 
 ## Rules
@@ -18,9 +20,9 @@ To promote ?
 * `background-color` CSS property editable via DatoCMS
 * Only 2 calls-to-action
 * Unique images should be created for each breakpoint
-  * Small breakpoint → 21:9
+  * Small breakpoint → 16:9
   * Medium breakpoint → 1:1
-  * Large breakpoint → 21:9
+  * Large breakpoint → 16:9
 
 ## Figma props
 
