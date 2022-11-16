@@ -36,6 +36,12 @@
 
 ## Page templates
 
+| Name                    | Status | Purpose |
+| ----------------------- | ------ | ------- |
+| [Hero](/patterns/hero/) | WIP    | ?       |
+
+## Page templates
+
 | Name           | Status | Purpose |
 | -------------- | ------ | ------- |
 | Faceted search | WIP    |         |
