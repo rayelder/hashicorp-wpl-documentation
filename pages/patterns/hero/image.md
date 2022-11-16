@@ -5,7 +5,7 @@ Status: **Not ready for use**
 
 ---
 
-# HeroImage
+# HeroWithImage
 
 ## Purpose
 
