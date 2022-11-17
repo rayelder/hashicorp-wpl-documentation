@@ -1,8 +1,6 @@
 Updated: Nov 17, 2022
 Status: **Not ready for use**
 
-
-
 ---
 
 # HeroWithVideo
@@ -10,8 +8,6 @@ Status: **Not ready for use**
 ## Purpose
 
 To highlight ?
-
-
 
 ---
 
@@ -21,10 +17,10 @@ To highlight ?
 
 ## Figma props
 
-| Name | Type | Description |
-|----|----|----|
+| Name         | Type      | Description                                                                                       |
+| ------------ | --------- | ------------------------------------------------------------------------------------------------- |
 | `breakpoint` | `variant` | Render specific breakpoint variants. **Options**: `small`, `medium`, `large`. Default is `large`. |
-| `headline` | `text` | Headline introducing the video content. |
+| `headline`   | `text`    | Headline introducing the video content.                                                           |
 
 ## States
 
@@ -38,7 +34,7 @@ TBD
 
 ### Nov 17, 2022
 
-* Documented pattern and nested components
+- Documented pattern and nested components
 
 ## Usage
 
@@ -48,11 +44,9 @@ None
 
 ### Design
 
-* Figma
-* Documentation
+- Figma
+- Documentation
 
 ### Development
 
-* ~~Swingset~~
-
-
+- ~~Swingset~~
