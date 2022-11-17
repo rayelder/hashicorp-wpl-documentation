@@ -2,55 +2,65 @@ Updated: Nov 18, 2033
 
 Status: **Work-in-progress**
 
+
 ---
 
 # Toggle
 
 ## Purpose
 
-## To ?
+To render a checkbox input as a toggle switch
 
 ## Rules
 
-- ?
+None
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
+| Name | Type | Description |
+|----|----|----|
 | `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `state` | `variant` | Toggle between `enabled`, `hover`, `active`, `focus`, `checked`, and `disabled` states |
 
 ## States
 
-TBD
+* `enabled`
+* `hover`
+* `active`
+* `focus`
+* `checked`
+* `disabled`
 
 ## UX writing guidelines
 
-TBD
+Not applicable.
 
 ## Changelog
 
 ### Nov 18, 2002
 
-- Updated design documentation
+* Updated colors to use updated neutral and blue palettes
+* Updated design documentation
 
 ## Usage
 
 ### Components
 
-- ?
+None
 
 ### Patterns
 
-- ?
+* [CookieManager](https://hashicorp-wpl-documentation.vercel.app/patterns/cookie-manager)
 
 ## Links
 
 ### Design
 
-- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=714%3A1025)
-- [Documentation](/components/form-elements/toggle)
+* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=714%3A1025)
+* [Documentation](/components/form-elements/toggle)
 
 ### Development
 
-- [Swingset](https://react-components.vercel.app/components/toggle)
+* [Swingset](https://react-components.vercel.app/components/toggle)
+
+
