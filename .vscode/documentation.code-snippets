@@ -12,11 +12,15 @@
     "body": [
       "### To do: Update placeholder documentation",
       "---",
-      "Updated: $1",
-      "Status: **Work-in-progress**",
+
+      "| Status               | Updated      |",
+      "| -------------------- | ------------ |",
+      "| **Work-in-progress** | $1 |",
+
       "---",
       "# $2",
       "## Purpose",
+      " ",
       "To ?",
       "---",
       "## Rules",
@@ -30,7 +34,7 @@
       "## UX writing guidelines",
       "TBD",
       "## Changelog",
-      "### Nov 14, 2002",
+      "### $3",
       "- Updated Figma documentation",
       "## Usage",
       "### Components",
