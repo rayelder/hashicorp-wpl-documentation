@@ -14,7 +14,7 @@
 | [Button](/components/button/)                          | Partial | Ready for use | To navigate, submit a form, or trigger an action              |
 | [Card](/components/card/)                              | Y       | WIP           | To showcase and promote marketing content                     |
 | [EyebrowWithPattern](/components/eyebrow-with-pattern) | N       |               |                                                               |
-| [Form elements](/components/form-elements)             | N       |               |                                                               |
+| [Form elements](/components/form-elements)             | Partial |               |                                                               |
 | [Gradient](/components/gradient)                       | N       |               |                                                               |
 | [Icon](/components/icon)                               | N       |               |                                                               |
 | [InlineLink](/components/inline-link)                  | Y       |               |                                                               |
