@@ -38,6 +38,10 @@ Not applicable.
 
 ## Changelog
 
+### Nov 29, 2022
+
+* Updated focus ring colors
+
 ### Nov 18, 2022
 
 * Updated colors to use updated neutral and blue palettes
