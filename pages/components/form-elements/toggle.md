@@ -1,6 +1,7 @@
-Updated: Nov 18, 2033
+Updated: Nov 18, 2022
 
 Status: **Work-in-progress**
+
 
 
 ---
@@ -37,7 +38,7 @@ Not applicable.
 
 ## Changelog
 
-### Nov 18, 2002
+### Nov 18, 2022
 
 * Updated colors to use updated neutral and blue palettes
 * Updated design documentation
