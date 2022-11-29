@@ -58,7 +58,7 @@ None
 ### Design
 
 * [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=714%3A1025)
-* [Documentation](/components/form-elements/toggle)
+* [Documentation](/components/form/toggle)
 
 ### Development
 
