@@ -10,7 +10,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 ## Purpose
 
-To render primary nav components
+To render primary nav components for [hashicorp.com](https://www.hashicorp.com/) and .io product domains
 
 
 
