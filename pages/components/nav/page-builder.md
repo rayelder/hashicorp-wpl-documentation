@@ -29,7 +29,7 @@ To render secondary <nav /> components for [hashicorp.com](https://www.hashicorp
 
 ## States
 
-Interaction defined by:
+==The last <nav /> component is sticky.== n Link and Button states defined by:
 
 * Button / Primary
 * Button / Secondary
