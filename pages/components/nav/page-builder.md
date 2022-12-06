@@ -18,7 +18,7 @@ To render secondary navigation components for [hashicorp.com](https://www.hashic
 
 ## Rules
 
-* <nav /> is always sticky
+* navigation is always sticky
 
 ## Figma props
 
@@ -29,7 +29,7 @@ To render secondary navigation components for [hashicorp.com](https://www.hashic
 
 ## States
 
-The last navigation component is sticky.
+**The last navigation component is sticky.**
 
 Link and Button states defined by:
 
