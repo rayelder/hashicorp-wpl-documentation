@@ -6,7 +6,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 ---
 
-# NavSecondary
+# Nav / Secondary variant
 
 ## Purpose
 
@@ -18,7 +18,8 @@ To render secondary <nav /> components for [hashicorp.com](https://www.hashicorp
 
 ## Rules
 
-* TBD
+* The last <nav /> is always sticky.
+* Animate in the “Talk to an expert” secondary button when the secondary <nav /> has becomes sticky.
 
 ## Figma props
 
