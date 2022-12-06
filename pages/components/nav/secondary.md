@@ -32,7 +32,7 @@ To render secondary navigation components for [hashicorp.com](https://www.hashic
 
 ## States
 
-The last navigation component is sticky.
+**The last navigation component is sticky.**
 
 Link and Button states defined by:
 
