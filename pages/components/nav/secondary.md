@@ -3,6 +3,7 @@ Updated: Dec 5, 2022
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
 
+
 ---
 
 # NavSecondary
@@ -10,6 +11,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 ## Purpose
 
 To render secondary <nav /> components for [hashicorp.com](https://www.hashicorp.com/)
+
 
 
 ---
@@ -22,8 +24,9 @@ To render secondary <nav /> components for [hashicorp.com](https://www.hashicorp
 
 | Name | Type | Description |
 |----|----|----|
-| `breakpoint` | `variant` | Render <nav /> component for selected breakpoint. **Options:** `small`, `medium`, and `large`. Default: `large` |
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `breakpoint` | `variant` | Render <nav /> component for selected breakpoint. **Options:** `small`, `medium`, and `large`. **Default:** `large` |
+| `page` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `section` | `variant` | Render section specific secondary <na/> component. **Options:** `about`, `blog`, `brand`, `careers`, `certification`, `consul`, `nomad`, `partners`, `support`, `terraform`, and `vault`. **Default:** `terraform` |
 
 ## States
 
