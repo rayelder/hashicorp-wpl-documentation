@@ -18,10 +18,10 @@ To render primary nav components for [hashicorp.com](https://www.hashicorp.com/)
 
 ## Rules
 
-* The last <nav /> is always sticky.
-* When combined with a secondary <nav />, the background should be a subtle gray with secondary button.
-* Animate in the “Talk to an expert” secondary button when the secondary <nav /> has becomes sticky.
-* Always show GitHub star counts.
+* Primary <nav /> is always sticky when not combined with a secondary <nav />
+* When combined with a secondary <nav />, the background should be a subtle gray with secondary button
+* Animate in the “Talk to an expert” secondary button when the secondary <nav /> has becomes sticky
+* Always show GitHub star counts on .io domains
 
 ## Figma props
 
