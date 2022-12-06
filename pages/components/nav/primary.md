@@ -33,7 +33,9 @@ To render primary nav components for [hashicorp.com](https://www.hashicorp.com/)
 
 ## States
 
-==The last <nav /> component is sticky.== n Link and Button states defined by:
+==The last <nav /> component is sticky.== 
+
+Link and Button states defined by:
 
 * Button / Github
 * Button / Primary
