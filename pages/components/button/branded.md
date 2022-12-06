@@ -2,6 +2,7 @@ Updated: Nov 18, 2022
 Status: **Work-in-progress**
 
 
+
 ---
 
 # Branded button
@@ -9,6 +10,7 @@ Status: **Work-in-progress**
 ## Purpose
 
 * To link to [hashicorp.com](https://www.hashicorp.com) product pages (i.e. [Terraform product page](https://www.hashicorp.com/products/terraform))
+
 
 
 ---
@@ -26,17 +28,23 @@ Status: **Work-in-progress**
 
 ## States
 
-* Enabled
-* Hover
-* Active
-* Focus
-* Disabled
+* `enabled`
+* `hover`
+* `active`
+* `focus`
+* `disabled`
 
 ## UX writing guidelines
 
 Not applicable
 
 ## Changelog
+
+### Dec 6, 2022
+
+* Added states for all buttons
+* Standardized borders colors and focus rings
+* Updated design documentation
 
 ### Oct 28, 2022
 
