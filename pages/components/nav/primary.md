@@ -10,7 +10,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 ## Purpose
 
-To render primary nav components for [hashicorp.com](https://www.hashicorp.com/) and .io product domains
+To render primary navigation components for [hashicorp.com](https://www.hashicorp.com/) and .io product domains
 
 
 
@@ -18,22 +18,22 @@ To render primary nav components for [hashicorp.com](https://www.hashicorp.com/)
 
 ## Rules
 
-* Primary <nav /> is always sticky when not combined with a secondary <nav />
-* When combined with a secondary <nav />, the background should be a subtle gray with secondary button
-* Animate in the “Talk to an expert” secondary button when the secondary <nav /> has becomes sticky
+* Primary navigation is always sticky when not combined with a secondary navigation 
+* When combined with a secondary navigation, the background should be a subtle gray with secondary button
+* Animate in the “Talk to an expert” secondary button when the secondary navigation has becomes sticky
 * Always show GitHub star counts on .io domains
 
 ## Figma props
 
 | Name | Type | Description |
 |----|----|----|
-| `breakpoint` | `variant` | Render <nav /> component for selected breakpoint. **Options:** `small`, `medium`, and `large`. Default: `large` |
-| `theme` | `variant` | Render product themed <nav /> component. **Options:** `boundary`, `consul`, `neutral`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `neutral` |
-| `hasSecondary` | `variant` | Toggle to render subdued primary [hashicorp.com](https://www.hashicorp.com/) <nav> when combined with secondary navigation |
+| `breakpoint` | `variant` | Render navigation component for selected breakpoint. **Options:** `small`, `medium`, and `large`. Default: `large` |
+| `theme` | `variant` | Render product themed navigation component. **Options:** `boundary`, `consul`, `neutral`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `neutral` |
+| `hasSecondary` | `variant` | Toggle to render subdued primary [hashicorp.com](https://www.hashicorp.com/) navigation when combined with secondary navigation |
 
 ## States
 
-==The last <nav /> component is sticky.== 
+==The last navigation component is sticky.==
 
 Link and Button states defined by:
 
@@ -50,8 +50,8 @@ TBD
 
 ### Dec 5, 2022
 
-* Created consistent calls-to-action across all <nav /> components and breakpoints
-* Create <nav /> component design documentation
+* Created consistent calls-to-action across all navigation components and breakpoints
+* Created navigation component design documentation
 
 ## Usage
 
