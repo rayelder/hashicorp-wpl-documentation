@@ -1,11 +1,12 @@
-Updated: Nov 18, 2022
-Status: **Work-in-progress**
+Updated: Dec 6, 2022
+
+Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
 
 
 ---
 
-# Branded button
+# Button / Branded
 
 ## Purpose
 
