@@ -18,8 +18,9 @@ To render secondary <nav /> components for [hashicorp.com](https://www.hashicorp
 
 ## Rules
 
-* The last <nav /> is always sticky.
-* Animate in the “Talk to an expert” secondary button when the secondary <nav /> has becomes sticky.
+* Secondary <nav /> is always sticky
+* Primary <nav /> is not sticky when combined with secondary <nav />
+* Animate in the “Talk to an expert” secondary button when the secondary <nav /> has becomes sticky
 
 ## Figma props
 
