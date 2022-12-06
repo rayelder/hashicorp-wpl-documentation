@@ -15,7 +15,7 @@ To navigate, submit a form, or trigger an action.
 ## Rules
 
 * Use at `48px` height
-* Only Flight chevron icon is allowed
+* Only chevron icon is allowed
 
 ## Figma props
 
@@ -47,6 +47,14 @@ To navigate, submit a form, or trigger an action.
 | `text` | 10 | 30 |
 
 ## Changelog
+
+### Dec 6, 2022
+
+* Added hover overlay to Button / Primary
+* Split Button / PrimaryWithClickTrigger out of Button / Primary
+* Added states for all buttons
+* Standardized borders colors and focus rings
+* Updated design documentation
 
 ### Oct 24, 2022
 
