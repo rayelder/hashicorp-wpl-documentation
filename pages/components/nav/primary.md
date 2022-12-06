@@ -3,6 +3,7 @@ Updated: Dec 5, 2022
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
 
+
 ---
 
 # NavPrimary
@@ -10,6 +11,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 ## Purpose
 
 To render primary nav components
+
 
 
 ---
@@ -23,17 +25,16 @@ To render primary nav components
 | Name | Type | Description |
 |----|----|----|
 | `breakpoint` | `variant` | Render <nav /> component for selected breakpoint. **Options:** `small`, `medium`, and `large`. Default: `large` |
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `theme` | `variant` | Render product themed <nav /> component. **Options:** `boundary`, `consul`, `neutral`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `neutral` |
+| `hasSecondary` | `variant` | Toggle to render subdued primary [hashicorp.com](https://www.hashicorp.com/) <nav> when combined with secondary navigation |
 
 ## States
 
-**None.** Interaction states defined by:
+Interaction states defined by:
 
 * Button / Github
 * Button / Primary
 * Button / Secondary
-
-
 * MenuItem
 
 ## UX writing guidelines
