@@ -58,7 +58,7 @@ Not applicable
 
 ### Design
 
-* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3920%3A11746)
+* Figma
 * [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/branded)
 
 ### Development
