@@ -10,7 +10,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 ## Purpose
 
-To play a video.
+[An affordance](https://www.interaction-design.org/literature/topics/affordances) to encourage visitors to watch video content.
 
 ## Rules
 
@@ -20,9 +20,9 @@ None
 
 | Name | Type | Description |
 |----|----|----|
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
-| `theme` | `variant` |    |
-| `size` | `variant` |    |
+| `page` | `variant` | Render on light or strong backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
+| `theme` | `variant` | Render action or neutral colors. **Options:** `action` and `neutral`. **Default:** `action` |
+| `size` | `variant` | Render the play button at different sizes. **Options:** `small`, `medium`, and `large`. **Default:** `small` |
 
 ## States
 
