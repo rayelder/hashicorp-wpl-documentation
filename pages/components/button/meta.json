@@ -1,6 +1,7 @@
 {
   "index": "Overview",
   "primary": "Primary",
+  "primary-with-click-trigger": "PrimaryWithClickTrigger",
   "secondary": "Secondary",
   "branded": "Branded",
   "close": "Close",
