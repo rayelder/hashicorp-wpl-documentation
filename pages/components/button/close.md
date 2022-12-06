@@ -1,9 +1,11 @@
-Updated: Nov 18, 2022
-Status: **Work-in-progress**
+Updated: Dec 6, 2022
+
+Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use)**
+
 
 ---
 
-# CloseButton
+# Button / Close
 
 ## Purpose
 
@@ -11,42 +13,43 @@ To dismiss a notification or close a modal
 
 ## Rules
 
-- TBD
+None
 
 ## Props
 
-| Name         | Type     | Description                                                           |
-| ------------ | -------- | --------------------------------------------------------------------- |
-| `state`      |          |                                                                       |
+| Name | Type | Description |
+|----|----|----|
+| `state` |    |    |
 | `appearance` | `string` | Display on light or dark background. **Options:** `"light"`, `"dark"` |
-| `size`       | `string` | The size of rendered button. **Options:** `"medium"`, `"large"`       |
+| `size` | `string` | The size of rendered button. **Options:** `"medium"`, `"large"` |
 
 ## States
 
-- enabled
-- hover
-- active
-- focus
-- disabled
+* `enabled`
+* `hover`
+* `active`
+* `focus`
+* `disabled`
 
 ## UX writing guidelines
 
-- TBD
-
-### Character limits
-
-| Content | Minimum | Maximum |
-| ------- | ------- | ------- |
-|         |         |         |
+Not applicable
 
 ## Changelog
 
 ### Aug 18, 2022
 
-- Aligned `appearance` and `size` prop naming and values with [Swingset](https://react-components.vercel.app/components/closebutton)
+* Aligned `appearance` and `size` prop naming and values with [Swingset](https://react-components.vercel.app/components/closebutton)
 
 ## Links
 
-- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=733%3A1033)
-- [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/close-button)
-- [Swingset](https://react-components.vercel.app/components/closebutton)
+### Design
+
+* Figma
+* [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/close)
+
+### Development
+
+* ~~Swingset~~
+
+
