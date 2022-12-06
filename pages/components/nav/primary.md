@@ -18,7 +18,7 @@ To render primary navigation components for [hashicorp.com](https://www.hashicor
 
 ## Rules
 
-* Primary navigation is always sticky when not combined with a secondary navigation 
+* Primary navigation is always sticky when not combined with a secondary navigation
 * When combined with a secondary navigation, the background should be a subtle gray with secondary button
 * Animate in the “Talk to an expert” secondary button when the secondary navigation has becomes sticky
 * Always show GitHub star counts on .io domains
@@ -33,7 +33,7 @@ To render primary navigation components for [hashicorp.com](https://www.hashicor
 
 ## States
 
-==The last navigation component is sticky.==
+**The last navigation component is sticky.**
 
 Link and Button states defined by:
 
