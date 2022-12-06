@@ -1,59 +1,64 @@
-### To do: Update placeholder documentation
+Updated: Dec 6, 2022
+
+Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
+
 
 ---
 
-Updated: Nov 18, 2022
-Status: **Work-in-progress**
-
----
-
-# PlayButton
+# Button / Play
 
 ## Purpose
 
-## To ?
+To play a video.
 
 ## Rules
 
-- ?
+None
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
+| Name | Type | Description |
+|----|----|----|
 | `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `theme` | `variant` |    |
+| `size` | `variant` |    |
 
 ## States
 
-TBD
+* `enabled`
+* `hover`
+* `active`
+* `focus`
 
 ## UX writing guidelines
 
-TBD
+Not applicable
 
 ## Changelog
 
 ### Nov 14, 2002
 
-- Updated Figma documentation
+* Updated Figma documentation
 
 ## Usage
 
 ### Components
 
-- ?
+* ?
 
 ### Patterns
 
-- ?
+* ?
 
 ## Links
 
 ### Design
 
-- Figma
-- Documentation
+* Figma
+* Documentation
 
 ### Development
 
-- Swingset
+* ~~Swingset~~
+
+
