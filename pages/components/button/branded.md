@@ -18,7 +18,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 ## Rules
 
-* TBD
+None
 
 ## Figma props
 
@@ -26,6 +26,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 |----|----|----|
 | `page` | `variant` | Display component on `page` backgrounds. **Options:** `light` or `strong` |
 | `state` | `variant` | Toggle between `enabled` and `disabled` states. **Default:** `enabled` |
+| `product` | `variant` | Render product themed button. **Options:** `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint` **Default:** `boundary` |
 
 ## States
 
