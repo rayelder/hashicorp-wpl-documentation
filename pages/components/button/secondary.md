@@ -1,6 +1,7 @@
-Updated: Dec 6, 2022 
+Updated: Dec 6, 2022
 
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
+
 
 
 ---
@@ -14,7 +15,7 @@ To navigate, submit a form, or trigger an action.
 ## Rules
 
 * Use at `48px` height
-* Only chevron icon is allowed
+* Only Flight chevron icon is allowed
 
 ## Figma props
 
