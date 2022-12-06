@@ -3,6 +3,7 @@ Updated: Dec 6, 2022
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
 
+
 ---
 
 # Button / PrimaryWithClickTrigger
@@ -20,11 +21,7 @@ To navigate, submit a form, or trigger an action.
 
 | Name | Type | Description |
 |----|----|----|
-| `text` | `text` | The call-to-action text for the button |
-| `showArrow` | `boolean` | Show or hide the animated chevron to arrow icon |
-| `page` | `variant` | Toggle styling for light or dark background.**Options:** `light`, `strong` |
-| `surface` | `variant` | Sets the button background and foreground colors based on usage. **Options:** `action`, `strong`, `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, `waypoint`. Default is `action` |
-| `showClickTrigger` | `boolean` | Show or hide the `clickTrigger` text. Default is `False` |
+| `surface` | `variant` | Toggle styling for light or dark background.**Options:** `light`, `strong` |
 | `clickTrigger` | `string` | Text below button to encourage engagement |
 
 ## States
@@ -53,7 +50,7 @@ None. Use Button / Primary states.
 ### Dec 6, 2022
 
 * Added hover overlay to Button / Primary
-* Split Button / PrimaryWithClickTrigger out of Button / Primary 
+* Split Button / PrimaryWithClickTrigger out of Button / Primary
 * Added states for all buttons
 * Standardized borders colors and focus rings
 * Updated design documentation
@@ -63,7 +60,7 @@ None. Use Button / Primary states.
 ### Design
 
 * Figma
-* Documentation
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/primary-with-click-trigger)
 
 ### Development
 
