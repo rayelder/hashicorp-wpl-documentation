@@ -23,10 +23,9 @@ To navigate, submit a form, or trigger an action.
 |----|----|----|
 | `text` | `text` | The call-to-action text for the button |
 | `showArrow` | `boolean` | Show or hide the animated chevron to arrow icon |
-| `page` | `variant` | Toggle styling for light or dark background.**Options:** `light`, `strong` |
-| `surface` | `variant` | Sets the button background and foreground colors based on usage. **Options:** `action`, `strong`, `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, `waypoint`. Default is `action` |
-| `showClickTrigger` | `boolean` | Show or hide the `clickTrigger` text. Default is `False` |
-| `clickTrigger` | `string` | Text below button to encourage engagement |
+| `surface` | `variant` | Toggle styling for light or dark background.**Options:** `light`, `strong` |
+| `theme` | `variant` | Sets the button background and foreground colors based on usage. **Options:** `action`, `neutral`, `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `action` |
+| `showOverlay` | `boolean` | Show or hide the hover overlay |
 
 ## States
 
@@ -42,15 +41,12 @@ To navigate, submit a form, or trigger an action.
 * Limit `label` to 3 words
 * Do not use an ampersand
 * Avoid the use of “Learn more”
-* Use `clickTrigger` text for `aria-label`
-* `clickTrigger` text should only be used with a single primary button
 
 ### Character limits
 
 | Content | Minimum | Maximum |
 |----|----|----|
 | `text` | 10 | 30 |
-| `clickTrigger` | 30 | 50 |
 
 ## Changelog
 
@@ -87,11 +83,11 @@ To navigate, submit a form, or trigger an action.
 
 ### Design
 
-* [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/OMEgzrp0nOtVags6nwQCyq/Components?node-id=102%3A47)
+* Figma
 * [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button)
 
 ### Development
 
-* [Swingset](https://react-components.vercel.app/components/button)
+* ~~Swingset~~
 
 
