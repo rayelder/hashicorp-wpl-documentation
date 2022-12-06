@@ -23,7 +23,7 @@ To navigate, submit a form, or trigger an action.
 |----|----|----|
 | `text` | `text` | The call-to-action text for the button |
 | `showArrow` | `boolean` | Show or hide the animated chevron to arrow icon |
-| `page` | `variant` | Toggle styling for light or dark background.**Options:** `"light"`, `"dark"` |
+| `surface` | `variant` | Toggle styling for light or dark background.**Options:** `"light"`, `"dark"` |
 
 ## States
 
@@ -80,7 +80,7 @@ To navigate, submit a form, or trigger an action.
 ### Design
 
 * Figma
-* Documentation
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/secondary)
 
 ### Development
 
