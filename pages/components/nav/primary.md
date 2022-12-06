@@ -6,7 +6,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 ---
 
-# NavPrimary
+# Nav / Primary variant
 
 ## Purpose
 
@@ -18,7 +18,10 @@ To render primary nav components for [hashicorp.com](https://www.hashicorp.com/)
 
 ## Rules
 
-* TBD
+* The last <nav /> is always sticky.
+* When combined with a secondary <nav />, the background should be a subtle gray with secondary button.
+* Animate in the “Talk to an expert” secondary button when the secondary <nav /> has becomes sticky.
+* Always show GitHub star counts.
 
 ## Figma props
 
