@@ -6,7 +6,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 ---
 
-# Nav / PageBuilder
+# Nav / PageBuilder variant
 
 ## Purpose
 
@@ -18,7 +18,7 @@ To render secondary <nav /> components for [hashicorp.com](https://www.hashicorp
 
 ## Rules
 
-* TBD
+* <nav /> is always sticky
 
 ## Figma props
 
