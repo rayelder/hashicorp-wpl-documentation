@@ -3,6 +3,7 @@ Updated: Dec 6, 2022
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
 
+
 ---
 
 # Button / Play
@@ -36,19 +37,15 @@ Not applicable
 
 ## Changelog
 
+### Dec 6, 2022
+
+* Added states for all buttons
+* Standardized borders colors and focus rings
+* Updated design documentation
+
 ### Nov 14, 2002
 
 * Updated Figma documentation
-
-## Usage
-
-### Components
-
-* ?
-
-### Patterns
-
-* ?
 
 ## Links
 
