@@ -48,7 +48,7 @@ Call-to-action directly following content to navigate or trigger an action.
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `text` | TBD | TBD |
+| `text` | 10 | 30 |
 
 ## Changelog
 
