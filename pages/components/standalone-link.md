@@ -24,11 +24,10 @@ Call-to-action directly following content to navigate or trigger an action.
 
 | Name | Type | Description |
 |----|----|----|
-| `color` | string | Toggle between blue and black variants. **Options:** “blue”, “black” |
 | `surface` | `variant` | Display component specific background colors. **Options:** `light`, `strong`, and `strong-faint`. **Default:** `light` |
-| `theme` | `variant` | Toggle between blue and black variants. **Options:** “blue”, “black” |
+| `theme` | `variant` | Toggle `action` and `neutral` themes. **Options:** `action` and `neutral`. **Default:** `action` |
 | `text` | `text` | Call-to-action text |
-| `isSecondary` | `boolean` | Toggle on secondary variants |
+| `isSecondary` | `boolean` | Toggle on secondary variant |
 | `icon` | `instance_  swap` | Toggle between `chevron-right` or `arrow-right` |
 
 ## States
