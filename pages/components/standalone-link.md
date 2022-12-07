@@ -24,7 +24,6 @@ As navigational element directly following content
 
 | Name | Type | Description |
 |----|----|----|
-| `color` | string | Toggle between blue and black variants. **Options:** “blue”, “black” |
 | `surface` | `variant` | Display component specific background colors. **Options:** `light`, `strong`, and `strong-faint`. **Default:** `light` |
 | `theme` | `variant` | Toggle between blue and black variants. **Options:** “blue”, “black” |
 | `text` | `text` | Call-to-action text |
