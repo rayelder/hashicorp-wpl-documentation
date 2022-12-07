@@ -10,7 +10,7 @@ Status: **[Ready for use](https://hashicorp-wpl-documentation.vercel.app/guides/
 
 ## Purpose
 
-As navigational element directly following content
+Call-to-action directly following content to navigate or trigger an action.
 
 
 
@@ -18,12 +18,13 @@ As navigational element directly following content
 
 ## Rules
 
-* They may appear on their own, directly following content, or in combination with a primary Button
+* May appear on their own, directly following content, or in combination with [Button / Primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary)
 
 ## Figma props
 
 | Name | Type | Description |
 |----|----|----|
+| `color` | string | Toggle between blue and black variants. **Options:** “blue”, “black” |
 | `surface` | `variant` | Display component specific background colors. **Options:** `light`, `strong`, and `strong-faint`. **Default:** `light` |
 | `theme` | `variant` | Toggle between blue and black variants. **Options:** “blue”, “black” |
 | `text` | `text` | Call-to-action text |
@@ -41,13 +42,13 @@ As navigational element directly following content
 
 * Target a maximum of 2-3 words per `label`
 * Target a readability grade level score of 8 to meet plain language guidelines.
-* `label` text uses [Sentence case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/sentence-case)
+* `text` text uses [Sentence case capitalization](https://apastyle.apa.org/style-grammar-guidelines/capitalization/sentence-case)
 
 **Character limits**
 
 | Content | Minimum | Maximum |
 |----|----|----|
-| `label` | TBD | TBD |
+| `text` | TBD | TBD |
 
 ## Changelog
 
