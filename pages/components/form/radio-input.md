@@ -2,8 +2,6 @@ Updated: Dec 6, 2022
 
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
-
-
 ---
 
 # RadioInput
@@ -18,22 +16,22 @@ None
 
 ## Figma props
 
-| Name | Type | Description |
-|----|----|----|
-| `page` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| Name    | Type      | Description                                                                                                                               |
+| ------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `page`  | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong`                                                                     |
 | `state` | `variant` | Toggle between `enabled`, `hover`, `active`, `focus`, `checked`, `checked-hover`, `checked-focus`, `indeterminate`, and `disabled` states |
 
 ## States
 
-* `enabled`
-* `hover`
-* `active`
-* `focus`
-* `checked`
-* `checked-hover`
-* `checked-focus`
-* `invalid`
-* `disabled`
+- `enabled`
+- `hover`
+- `active`
+- `focus`
+- `checked`
+- `checked-hover`
+- `checked-focus`
+- `invalid`
+- `disabled`
 
 ## UX writing guidelines
 
@@ -43,8 +41,8 @@ TBD
 
 ### Dec 6, 2022
 
-* Aligned RadioInput to CheckboxInput
-* Created design documentation
+- Aligned RadioInput to CheckboxInput
+- Created design documentation
 
 ## Usage
 
@@ -54,11 +52,9 @@ TBD
 
 ### Design
 
-* Figma
-* Documentation
+- ~~Figma~~
+- [Documentation](/components/form/radio-input)
 
 ### Development
 
-* Swingset
-
-
+- ~~Swingset~~

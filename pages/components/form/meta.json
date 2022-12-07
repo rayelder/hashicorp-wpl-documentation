@@ -1,5 +1,6 @@
 {
   "index": "Overview",
   "checkbox-input": "CheckboxInput",
+  "radio-input": "RadioInput",
   "toggle": "Toggle"
 }
