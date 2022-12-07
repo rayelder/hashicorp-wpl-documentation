@@ -3,6 +3,7 @@ Updated: Dec 6, 2022
 Status: **[Ready for use](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#ready-for-use)**
 
 
+
 ---
 
 # StandaloneLink
@@ -10,6 +11,7 @@ Status: **[Ready for use](https://hashicorp-wpl-documentation.vercel.app/guides/
 ## Purpose
 
 As navigational element directly following content
+
 
 
 ---
@@ -23,10 +25,11 @@ As navigational element directly following content
 | Name | Type | Description |
 |----|----|----|
 | `color` | string | Toggle between blue and black variants. **Options:** “blue”, “black” |
-| `appearance` | string | Display on light or dark backgrounds. **Options:** “light”, “dark” |
-| `label` | string | Call-to-action text |
-| `showArrow` | boolean | Show or hide chevron/arrow |
-| `isSecondary` | boolean | Toggle between primary and secondary variants |
+| `surface` | `variant` | Display component specific background colors. **Options:** `light`, `strong`, and `strong-faint`. **Default:** `light` |
+| `theme` | `variant` | Toggle between blue and black variants. **Options:** “blue”, “black” |
+| `text` | `text` | Call-to-action text |
+| `isSecondary` | `boolean` | Toggle on secondary variants |
+| `icon` | `instance_  swap` | Toggle between `chevron-right` or `arrow-right` |
 
 ## States
 
