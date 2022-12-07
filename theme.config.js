@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/rayelder/hashicorp-wpl-documentation',
+  project: { link: 'https://github.com/rayelder/hashicorp-wpl-documentation' },
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – HashiCorp WPL',
   logo: (
@@ -17,10 +17,9 @@ export default {
       <meta name="og:title" content="HashiCorp - Web pattern library" />
     </>
   ),
-  search: true,
-  prevLinks: false,
-  nextLinks: false,
-  footer: false,
-  floatTOC: true,
+  navigation: { next: false },
+  navigation: { prev: false },
+  footer: { component: null },
+  toc: { float: true },
   darkMode: true,
 }
