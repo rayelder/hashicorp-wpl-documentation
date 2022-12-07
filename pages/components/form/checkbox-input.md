@@ -1,6 +1,6 @@
-Updated: Nov 29, 2022
+Updated: Dec 6, 2022
 
-Status: **Work-in-progress**
+Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
 
 
@@ -41,6 +41,11 @@ None
 TBD
 
 ## Changelog
+
+### Dec 6, 2022
+
+* Added Flight checked icon to `hover` state
+* Updated design documentation
 
 ### Nov 29, 2022
 
