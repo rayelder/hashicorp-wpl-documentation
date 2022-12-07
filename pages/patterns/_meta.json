@@ -1,18 +1,18 @@
 {
-  "accordion": "Accordion variants",
+  "accordion": "Accordion",
   "call-to-action": "CallToAction",
   "cookie-manager": "CookieManager",
   "cookie-notification": "CookieNotification",
   "customer-stories": "CustomerStories",
-  "faceted-search": "FacetedSearch variants",
-  "footer": "Footer variants",
-  "hero": "Hero variants",
+  "faceted-search": "FacetedSearch",
+  "footer": "Footer",
+  "hero": "Hero",
   "intro-with-logo-grid": "IntroWithLogoGrid",
-  "key-benefits": "KeyBenefits variants",
-  "nav": "Nav variants",
+  "key-benefits": "KeyBenefits",
+  "nav": "Nav",
   "next-steps": "NextSteps",
   "products-used": "ProductsUsed",
   "quote-with-logo-grid": "QuoteWithLogoGrid",
   "related-content": "RelatedContent",
-  "video": "Video variants"
+  "video": "Video"
 }
