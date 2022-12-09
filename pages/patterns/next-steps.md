@@ -1,9 +1,7 @@
-### To do: Update placeholder documentation
+Updated: Dec 6, 2022
 
----
+Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
-Updated: Nov 18, 2022
-Status: **Work-in-progress**
 
 ---
 
@@ -11,21 +9,23 @@ Status: **Work-in-progress**
 
 ## Purpose
 
-## To ?
+To promote desired next based on previous content.
 
 ## Rules
 
-- ?
+* Only use 2 or 3 Tile components
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| Name | Type | Description |
+|----|----|----|
+| `breakpoint` | `variant` | Render component for correct breakpoint. **Options:** `small`, `medium`, and `large`. **Default:** `large` |
+| `page` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong`. **Default:** `light` |
+| `tileCount` | `variant` | Toggle between 2 or 3 Tile layout. **Options:** `2` or `3`. **Default:** `2` |
 
 ## States
 
-TBD
+None
 
 ## UX writing guidelines
 
@@ -33,27 +33,24 @@ TBD
 
 ## Changelog
 
-### Nov 14, 2002
+### Dec 7, 2022
 
-- Updated Figma documentation
+* Added `medium` breakpoint
+* Updated Figma documentation
 
 ## Usage
 
-### Components
-
-- ?
-
-### Patterns
-
-- ?
+None
 
 ## Links
 
 ### Design
 
-- Figma
-- Documentation
+* ~~Figma~~
+* [Documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/next-steps)
 
 ### Development
 
-- Swingset
+* [Swingset](https://react-components.vercel.app/components/nextsteps)
+
+
