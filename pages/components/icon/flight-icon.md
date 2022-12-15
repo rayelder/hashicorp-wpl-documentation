@@ -1,26 +1,23 @@
-### To do: Update placeholder documentation
-
----
-
 Updated: Nov 18, 2022
 Status: **Work-in-progress**
 
+
 ---
 
-# FlightIcon
+# Icon / FlightIcon
 
 ## Purpose
 
-## To ?
+To ?
 
 ## Rules
 
-- ?
+* ?
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
+| Name | Type | Description |
+|----|----|----|
 | `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
 
 ## States
@@ -33,27 +30,29 @@ TBD
 
 ## Changelog
 
-### Nov 14, 2002
+### Dec 14, 2002
 
-- Updated Figma documentation
+* Updated Figma documentation
 
 ## Usage
 
 ### Components
 
-- ?
+* ?
 
 ### Patterns
 
-- ?
+* ?
 
 ## Links
 
 ### Design
 
-- Figma
-- Documentation
+* Figma
+* Documentation
 
 ### Development
 
-- Swingset
+* Swingset
+
+
