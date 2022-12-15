@@ -1,9 +1,7 @@
-### To do: Update placeholder documentation
+Updated: Dec 14, 2022
 
----
-
-Updated: Nov 18, 2022
 Status: **Work-in-progress**
+
 
 ---
 
@@ -11,16 +9,16 @@ Status: **Work-in-progress**
 
 ## Purpose
 
-## To ?
+To ?
 
 ## Rules
 
-- ?
+* ?
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
+| Name | Type | Description |
+|----|----|----|
 | `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
 
 ## States
@@ -33,27 +31,29 @@ TBD
 
 ## Changelog
 
-### Nov 14, 2002
+### Dec 14, 2022
 
-- Updated Figma documentation
+* Updated Figma documentation
 
 ## Usage
 
 ### Components
 
-- ?
+* ?
 
 ### Patterns
 
-- ?
+* ?
 
 ## Links
 
 ### Design
 
-- Figma
-- Documentation
+* Figma
+* Documentation
 
 ### Development
 
-- Swingset
+* Swingset
+
+
