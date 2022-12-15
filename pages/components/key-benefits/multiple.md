@@ -1,6 +1,7 @@
-Updated: Dec 12, 2022
+Updated: Dec 14, 2022
 
-Status: [**Work-in-progress**](/guides/can-i-use#work-in-progress)
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
+
 
 ---
 
@@ -12,12 +13,12 @@ To ?
 
 ## Rules
 
-- ?
+* ?
 
 ## Figma props
 
-| Name   | Type      | Description                                                           |
-| ------ | --------- | --------------------------------------------------------------------- |
+| Name | Type | Description |
+|----|----|----|
 | `page` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
 
 ## States
@@ -32,25 +33,27 @@ TBD
 
 ### Dec 12, 2002
 
-- Updated Figma documentation
+* Updated Figma documentation
 
 ## Usage
 
 ### Components
 
-- ?
+* ?
 
 ### Patterns
 
-- ?
+* ?
 
 ## Links
 
 ### Design
 
-- Figma
-- Documentation
+* Figma
+* Documentation
 
 ### Development
 
-- Swingset
+* Swingset
+
+
