@@ -3,7 +3,7 @@ export default {
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – HashiCorp WPL',
   sidebar: { defaultMenuCollapseLevel: 0 },
-  logo: <>HashiCorp Web pattern library</>,
+  logo: <>HashiCorp Marketing Design System (HMDS)</>,
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />

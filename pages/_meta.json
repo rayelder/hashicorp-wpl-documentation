@@ -1,6 +1,7 @@
 {
-  "index": "Overview",
-  "guides": "Guides",
-  "components": "Components",
-  "patterns": "Patterns"
+  "index": { "title": "Introduction", "type": "page" },
+  "components": { "title": "Components", "type": "page" },
+  "guides": { "title": "Guides", "type": "page" },
+  "contributing": { "title": "Contributing", "type": "page" },
+  "patterns": { "title": "Patterns", "display": "hidden" }
 }
