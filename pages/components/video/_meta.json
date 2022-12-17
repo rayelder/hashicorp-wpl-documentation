@@ -1,5 +1,8 @@
 {
   "index": "Overview",
-  "video-thumbnail": "VideoThumbnail",
+  "video-thumbnail": {
+    "title": "VideoThumbnail",
+    "display": "hidden"
+  },
   "video": "Video"
 }

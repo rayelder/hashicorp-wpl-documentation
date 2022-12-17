@@ -2,58 +2,58 @@ Updated: Dec 14, 2022
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
-
 ---
 
 # KeyBenefits / Multiple
 
 ## Purpose
 
-To ?
+To promote product or solution key benefits
 
 ## Rules
 
-* ?
+- Must display at least 2 benefits
+- Limit of 3 benefits
 
-## Figma props
+## Props
 
-| Name | Type | Description |
-|----|----|----|
-| `page` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| Name         | Type      | Description                                                            |
+| ------------ | --------- | ---------------------------------------------------------------------- |
+| `appearance` | `string`  | Display on light or dark backgrounds. **Options:** “light”, “dark”     |
+| `isVertical` | `boolean` | Toggle large breakpoint variant between stacked vertical or horizontal |
 
 ## States
 
-TBD
+- Not applicable
 
 ## UX writing guidelines
 
-TBD
+- Focus on writing keyword relevant display titles
+- Target a readability grade level score of 8 to meet plain language guidelines
+
+### Character limits
+
+| Content       | Minimum | Maximum |
+| ------------- | ------- | ------- |
+| `heading`     | 50      | 70      |
+| `description` | 120     | 140     |
+
+[See character limits for Intro component](https://hashicorp-wpl-documentation.vercel.app/components/intro#ux-writing-guidelines)
 
 ## Changelog
 
-### Dec 12, 2002
+### Aug 15, 2022
 
-* Updated Figma documentation
+- Added `appearance` prop with “light” and “dark” variants
+- Replaced `showCTA` prop with `isVertical`
+- Created `_KeyBenefitsIcon` component for `KeyBenefits` and `KeyBenefitsWithImage` patterns
 
-## Usage
+### Aug 9, 2022
 
-### Components
-
-* ?
-
-### Patterns
-
-* ?
+- Refined breakpoints in preparation for adding image variant
 
 ## Links
 
-### Design
-
-* Figma
-* Documentation
-
-### Development
-
-* Swingset
-
-
+- [Figma](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/branch/gLfWIxUdC56xS1M8z70kbE/Patterns?node-id=217%3A479)
+- [Design documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/key-benefits)
+- ~~Swingset~~

@@ -2,28 +2,76 @@
   "actions": "Actions",
   "alert-banner": "AlertBanner",
   "aside": "Aside",
-  "author-byline": "AuthorByline",
-  "badge": "Badge",
-  "body-copy": "BodyCopy",
+  "author-byline": {
+    "title": "AuthorByline",
+    "display": "hidden"
+  },
+  "badge": {
+    "title": "Badge",
+    "display": "hidden"
+  },
+  "body-copy": {
+    "title": "BodyCopy",
+    "display": "hidden"
+  },
   "brand-pattern": "BrandPattern",
-  "breadcrumbs": "Breadcrumbs",
+  "breadcrumbs": {
+    "title": "Breadcrumbs",
+    "display": "hidden"
+  },
   "button": "Button",
-  "card": "Card",
+  "card": {
+    "title": "Card",
+    "display": "hidden"
+  },
+  "eyebrow-with-pattern": {
+    "title": "EyebrowWithPattern",
+    "display": "hidden"
+  },
   "form": "Form",
-  "gradient": "Gradient",
-  "icons": "Icons",
-  "inline-link": "InlineLink",
+  "gradient": {
+    "title": "Gradient",
+    "display": "hidden"
+  },
+  "icon": "Icon",
+  "image": "Image",
+  "inline-link": {
+    "title": "InlineLink",
+    "display": "hidden"
+  },
   "intro": "Intro",
   "key-benefit": "KeyBenefit",
   "key-benefits": "KeyBenefits",
-  "logo": "Logos",
-  "nav": "Nav",
-  "notification": "Notification",
-  "popover": "Popover",
+  "logo": {
+    "title": "Logo",
+    "display": "hidden"
+  },
+  "nav": {
+    "title": "Nav",
+    "display": "hidden"
+  },
+  "notification": {
+    "title": "Notification",
+    "display": "hidden"
+  },
+  "popover": {
+    "title": "Popover",
+    "display": "hidden"
+  },
   "quote": "Quote",
+  "related-content": "RelatedContent",
   "standalone-link": "StandaloneLink",
-  "tabs": "Tabs",
-  "tile": "Tile",
-  "tooltip": "Tooltip",
+  "tabs": {
+    "title": "Tabs",
+    "display": "hidden"
+  },
+  "tile": {
+    "title": "Tile",
+    "display": "hidden"
+  },
+  "tooltip": {
+    "title": "Tooltip",
+    "display": "hidden"
+  },
   "video": "Video"
 }
