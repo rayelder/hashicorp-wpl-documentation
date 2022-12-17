@@ -2,6 +2,7 @@ Updated: Dec 16, 2022
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
+
 ---
 
 # Icon / Flight
@@ -12,13 +13,17 @@ To display a contained or not contained [Flight icon](https://flight-hashicorp.v
 
 ## Rules
 
-- None
+* None
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| Name | Type | Description |
+|----|----|----|
+| `page` | `variant` | Render component on light or strong (dark) backgrounds. **Options:** `light`, `strong`. **Default:** `light` |
+| `theme` | `variant` |    |
+| `isSecondary` | `variant` | Render secondary styling |
+| `hasContainer` | `variant` | Toggle between pure FlightIcon and container FlightIcon with a background |
+| `icon` | `instance_swap` | Set FlightIcon using instance swap property |
 
 ## States
 
@@ -32,20 +37,22 @@ None
 
 ### Dec 16, 2002
 
-- Updated Figma documentation
+* Updated Figma documentation
 
 ## Where used
 
-- [KeyBenefit](/components/key-benefit)
-- [KeyBenefits](/components/key-benefits)
+* [KeyBenefit](/components/key-benefit)
+* [KeyBenefits](/components/key-benefits)
 
 ## Links
 
 ### Design
 
-- ~~Figma~~
-- [Documentation](/components/icon/flight)
+* ~~Figma~~
+* [Documentation](/components/icon/flight)
 
 ### Development
 
-- ~~Swingset~~
+* ~~Swingset~~
+
+
