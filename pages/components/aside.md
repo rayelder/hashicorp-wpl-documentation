@@ -1,5 +1,6 @@
-Updated: Nov 14, 2022
-Status: **Work-in-progress**
+Updated: Dec 16, 2022
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ---
 
@@ -32,11 +33,15 @@ Not applicable
 
 ## Changelog
 
+### Dec 16, 2022
+
+- Updated design documentation
+
 ### Sep 19, 2022
 
 - Created component in Figma library
 
-## Usage
+## Where used
 
 - [cloud.hashicorp.com/api-docs/packer](https://cloud.hashicorp.com/api-docs/packer), click “Expand”
 
@@ -45,7 +50,7 @@ Not applicable
 ### Design
 
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3041%3A9437)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/aside)
+- [Documentation](/components/aside)
 
 ### Engineering
 
