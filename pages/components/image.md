@@ -1,6 +1,7 @@
-Updated: Dec 14, 2022
+Updated: Dec 16, 2022
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
+
 
 
 ---
@@ -9,17 +10,19 @@ Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
-To ?
+To render an image at a specific aspect ratio
 
 ## Rules
 
-* ?
+None
 
 ## Figma props
 
 | Name | Type | Description |
 |----|----|----|
-| `page` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `page` | `variant` | Render component on light or strong (dark) backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
+| `ratio` | `variant` | Set specific image aspect ratio. **Options:** `16:9` and `1:1`. **Default:** `16:9` |
+| `showRatio` | `boolean` | Toggle visibility of aspect ratio text |
 
 ## States
 
@@ -31,29 +34,23 @@ TBD
 
 ## Changelog
 
-### Dec 12, 2002
+### Dec 16, 2002
 
 * Updated Figma documentation
 
-## Usage
+## Where used
 
-### Components
-
-* ?
-
-### Patterns
-
-* ?
+* [KeyBenefits](/components/key-benefits)
 
 ## Links
 
 ### Design
 
-* Figma
-* Documentation
+* ~~Figma~~
+* [Documentation](https://components/image)
 
 ### Development
 
-* Swingset
+* ~~Swingset~~
 
 
