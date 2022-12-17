@@ -61,6 +61,6 @@ None
 - [Figma](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=2591%3A14651)
 - [Documentation](https://hashicorp-wpl-documentation.vercel.app/patterns/hero)
 
-### Development
+### Engineering
 
 - ~~Swingset~~

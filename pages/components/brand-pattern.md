@@ -49,6 +49,6 @@ None
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=2303%3A11771)
 - [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/brand-pattern)
 
-### Development
+### Engineering
 
 - ~~Swingset~~

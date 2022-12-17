@@ -2,8 +2,6 @@ Updated: Dec 5, 2022
 
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
-
-
 ---
 
 # Nav / Primary variant
@@ -12,24 +10,22 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 To render primary navigation components for [hashicorp.com](https://www.hashicorp.com/) and .io product domains
 
-
-
 ---
 
 ## Rules
 
-* Primary navigation is always sticky when not combined with a secondary navigation
-* When combined with a secondary navigation, the background should be a subtle gray with secondary button
-* Animate in the “Talk to an expert” secondary button when the secondary navigation has becomes sticky
-* Always show GitHub star counts on .io domains
+- Primary navigation is always sticky when not combined with a secondary navigation
+- When combined with a secondary navigation, the background should be a subtle gray with secondary button
+- Animate in the “Talk to an expert” secondary button when the secondary navigation has becomes sticky
+- Always show GitHub star counts on .io domains
 
 ## Figma props
 
-| Name | Type | Description |
-|----|----|----|
-| `breakpoint` | `variant` | Render navigation component for selected breakpoint. **Options:** `small`, `medium`, and `large`. Default: `large` |
-| `theme` | `variant` | Render product themed navigation component. **Options:** `boundary`, `consul`, `neutral`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `neutral` |
-| `hasSecondary` | `variant` | Toggle to render subdued primary [hashicorp.com](https://www.hashicorp.com/) navigation when combined with secondary navigation |
+| Name           | Type      | Description                                                                                                                                                                          |
+| -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `breakpoint`   | `variant` | Render navigation component for selected breakpoint. **Options:** `small`, `medium`, and `large`. Default: `large`                                                                   |
+| `theme`        | `variant` | Render product themed navigation component. **Options:** `boundary`, `consul`, `neutral`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `neutral` |
+| `hasSecondary` | `variant` | Toggle to render subdued primary [hashicorp.com](https://www.hashicorp.com/) navigation when combined with secondary navigation                                                      |
 
 ## States
 
@@ -37,10 +33,10 @@ To render primary navigation components for [hashicorp.com](https://www.hashicor
 
 Link and Button states defined by:
 
-* Button / Github
-* Button / Primary
-* Button / Secondary
-* MenuItem
+- Button / Github
+- Button / Primary
+- Button / Secondary
+- MenuItem
 
 ## UX writing guidelines
 
@@ -50,8 +46,8 @@ TBD
 
 ### Dec 5, 2022
 
-* Created consistent calls-to-action across all navigation components and breakpoints
-* Created navigation component design documentation
+- Created consistent calls-to-action across all navigation components and breakpoints
+- Created navigation component design documentation
 
 ## Usage
 
@@ -61,11 +57,9 @@ TBD
 
 ### Design
 
-* ~~Figma~~
-* ~~Documentation~~
+- ~~Figma~~
+- ~~Documentation~~
 
-### Development
+### Engineering
 
-* ~~Swingset~~
-
-
+- ~~Swingset~~

@@ -2,8 +2,6 @@ Updated: Dec 16, 2022
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
-
-
 ---
 
 # KeyBenefit
@@ -18,18 +16,18 @@ None
 
 ## Figma properties
 
-| Name | Type | Description |
-|----|----|----|
-| `page` | `variant` | Render component on light or strong (dark) backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
-| `showIcon` | `boolean` | Show or hide icon |
-| `iconType` | `instance_swap` | Toggle between `Icon/FlightIcon` and `Icon/Number` |
-| `showDescription` | `boolean` | Show or hide `description` text |
-| `heading` | `text` |    |
-| `description` | `text` |    |
+| Name              | Type            | Description                                                                                                     |
+| ----------------- | --------------- | --------------------------------------------------------------------------------------------------------------- |
+| `page`            | `variant`       | Render component on light or strong (dark) backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
+| `showIcon`        | `boolean`       | Show or hide icon                                                                                               |
+| `iconType`        | `instance_swap` | Toggle between `Icon/FlightIcon` and `Icon/Number`                                                              |
+| `showDescription` | `boolean`       | Show or hide `description` text                                                                                 |
+| `heading`         | `text`          |                                                                                                                 |
+| `description`     | `text`          |                                                                                                                 |
 
 ## Nested instances
 
-* [Icon](/components/icon)
+- [Icon](/components/icon)
 
 ## States
 
@@ -43,21 +41,19 @@ TBD
 
 ### Dec 16, 2022
 
-* Updated Figma documentation
+- Updated Figma documentation
 
 ## Where used
 
-* [KeyBenefits](/component/key-benefits)
+- [KeyBenefits](/component/key-benefits)
 
 ## Links
 
 ### Design
 
-* ~~Figma~~
-* [Documentation](/components/key-benefit)
+- ~~Figma~~
+- [Documentation](/components/key-benefit)
 
-### Development
+### Engineering
 
-* ~~Swingset~~
-
-
+- ~~Swingset~~

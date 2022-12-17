@@ -54,6 +54,6 @@ Not applicable
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=3847%3A11616)
 - [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/quote)
 
-### Development
+### Engineering
 
 - [Swingset](https://react-components.vercel.app/components/quote)

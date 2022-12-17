@@ -47,6 +47,6 @@ TBD
 - ~~Figma~~
 - [Documentation](https://components/image)
 
-### Development
+### Engineering
 
 - ~~Swingset~~

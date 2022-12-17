@@ -2,8 +2,6 @@ Updated: Dec 5, 2022
 
 Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
 
-
-
 ---
 
 # Nav / PageBuilder variant
@@ -12,20 +10,18 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 To render secondary navigation components for [hashicorp.com](https://www.hashicorp.com/) DatoCMS PageBuilder
 
-
-
 ---
 
 ## Rules
 
-* navigation is always sticky
+- navigation is always sticky
 
 ## Figma props
 
-| Name | Type | Description |
-|----|----|----|
-| `breakpoint` | `variant` | Render navigation component for selected breakpoint. **Options:** `small`, `medium`, and `large`. **Default:** `large` |
-| `theme` | `variant` | Render product themed navigation component. **Options:** `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `boundary` |
+| Name         | Type      | Description                                                                                                                                                                |
+| ------------ | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `breakpoint` | `variant` | Render navigation component for selected breakpoint. **Options:** `small`, `medium`, and `large`. **Default:** `large`                                                     |
+| `theme`      | `variant` | Render product themed navigation component. **Options:** `boundary`, `consul`, `nomad`, `packer`, `terraform`, `vagrant`, `vault`, and `waypoint`. **Default:** `boundary` |
 
 ## States
 
@@ -33,8 +29,8 @@ To render secondary navigation components for [hashicorp.com](https://www.hashic
 
 Link and Button states defined by:
 
-* Button / Primary
-* Button / Secondary
+- Button / Primary
+- Button / Secondary
 
 ## UX writing guidelines
 
@@ -44,8 +40,8 @@ TBD
 
 ### Dec 5, 2022
 
-* Created consistent calls-to-action across all navigation components and breakpoints
-* Create navigation component design documentation
+- Created consistent calls-to-action across all navigation components and breakpoints
+- Create navigation component design documentation
 
 ## Usage
 
@@ -55,11 +51,9 @@ TBD
 
 ### Design
 
-* ~~Figma~~
-* ~~Documentation~~
+- ~~Figma~~
+- ~~Documentation~~
 
-### Development
+### Engineering
 
-* ~~Swingset~~
-
-
+- ~~Swingset~~
