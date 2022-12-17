@@ -2,8 +2,6 @@ Updated: Dec 16, 2022
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
-
-
 ---
 
 # Image
@@ -18,11 +16,11 @@ None
 
 ## Figma props
 
-| Name | Type | Description |
-|----|----|----|
-| `page` | `variant` | Render component on light or strong (dark) backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
-| `ratio` | `variant` | Set specific image aspect ratio. **Options:** `16:9` and `1:1`. **Default:** `16:9` |
-| `showRatio` | `boolean` | Toggle visibility of aspect ratio text |
+| Name        | Type      | Description                                                                                                     |
+| ----------- | --------- | --------------------------------------------------------------------------------------------------------------- |
+| `page`      | `variant` | Render component on light or strong (dark) backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
+| `ratio`     | `variant` | Set specific image aspect ratio. **Options:** `16:9` and `1:1`. **Default:** `16:9`                             |
+| `showRatio` | `boolean` | Toggle visibility of aspect ratio text                                                                          |
 
 ## States
 
@@ -34,23 +32,21 @@ TBD
 
 ## Changelog
 
-### Dec 16, 2002
+### Dec 16, 2022
 
-* Updated Figma documentation
+- Updated Figma documentation
 
 ## Where used
 
-* [KeyBenefits](/components/key-benefits)
+- [KeyBenefits](/components/key-benefits)
 
 ## Links
 
 ### Design
 
-* ~~Figma~~
-* [Documentation](https://components/image)
+- ~~Figma~~
+- [Documentation](https://components/image)
 
 ### Development
 
-* ~~Swingset~~
-
-
+- ~~Swingset~~

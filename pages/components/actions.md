@@ -1,5 +1,6 @@
-Updated: Nov 14, 2022
-Status: **Ready for use**
+Updated: Dec 16, 2022
+
+Status: **[Ready for use](/guides/can-i-use#ready-for-use)**
 
 ---
 
@@ -35,11 +36,15 @@ TBD
 
 ## Changelog
 
-### Nov 9, 2002
+### Dec 16, 2022
 
 - Updated Figma documentation
 
-### Nov 7, 2002
+### Nov 9, 2022
+
+- Updated Figma documentation
+
+### Nov 7, 2022
 
 - Updated [Button](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) nested components
 - Updated documentation

@@ -33,7 +33,7 @@ TBD
 
 ## Changelog
 
-### Nov 14, 2002
+### Nov 14, 2022
 
 - Updated Figma documentation
 
