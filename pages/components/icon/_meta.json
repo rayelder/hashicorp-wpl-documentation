@@ -1,5 +1,6 @@
 {
   "index": "Overview",
-  "flight-icon": "FlightIcon",
-  "play-icon": "PlayIcon"
+  "flight": "Flight",
+  "number": "Number",
+  "play": "Play"
 }
