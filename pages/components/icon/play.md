@@ -2,6 +2,7 @@ Updated: Dec 16, 2022
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
+
 ---
 
 # Icon / Play
@@ -16,9 +17,10 @@ None
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| Name | Type | Description |
+|----|----|----|
+| `page` | `variant` | Render component on a specific background color. **Options:** `light`, `faint`, `strong`, `action`, `action-faint`. **Default:** `light` |
+| `size` | `variant` | Render component at specific diameters. **Options:** `24px`, `48px`, and `72px`. **Default:** `24px` |
 
 ## States
 
@@ -32,19 +34,21 @@ None
 
 ### Dec 16, 2002
 
-- Updated Figma documentation
+* Updated Figma documentation
 
 ## Where used
 
-- ?
+* ?
 
 ## Links
 
 ### Design
 
-- ~~Figma~~
-- [Documentation](/components/icon/play)
+* ~~Figma~~
+* [Documentation](/components/icon/play)
 
 ### Development
 
-- ~~Swingset~~
+* ~~Swingset~~
+
+
