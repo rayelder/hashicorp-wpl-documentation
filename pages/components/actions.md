@@ -55,23 +55,18 @@ TBD
 - Fixed props on `strong` backgrounds
 - Added nested component props
 
-## Usage
+## Where used
 
-### Components
-
-- [Intro](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=536%3A702)
-
-### Patterns
-
-- [CallToAction](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=136%3A3)
-- [Hero](https://hashicorp-wpl-documentation.vercel.app/patterns/hero)
+- CallToAction
+- [Hero](/patterns/hero)
+- [Intro](/components/intro)
 
 ## Links
 
 ### Design
 
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=572%3A1058)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/actions)
+- [Documentation](/components/actions)
 
 ### Development
 
