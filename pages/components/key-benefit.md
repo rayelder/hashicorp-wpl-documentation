@@ -21,9 +21,9 @@ None
 | Name | Type | Description |
 |----|----|----|
 | `page` | `variant` | Render component on light or strong (dark) backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
-| `showIcon` | `boolean` |    |
-| `icon` |    |    |
-| `showDescription` | `boolean` |    |
+| `showIcon` | `boolean` | Show or hide icon |
+| `iconType` | `instance_swap` | Toggle between `Icon/FlightIcon` and `Icon/Number` |
+| `showDescription` | `boolean` | Show or hide `description` text |
 | `heading` | `text` |    |
 | `description` | `text` |    |
 
