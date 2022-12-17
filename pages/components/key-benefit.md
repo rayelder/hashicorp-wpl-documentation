@@ -1,6 +1,7 @@
-Updated: Dec 14, 2022
+Updated: Dec 16, 2022
 
-Status: **Work-in-progress**
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
+
 
 
 ---
@@ -9,21 +10,30 @@ Status: **Work-in-progress**
 
 ## Purpose
 
-To ?
+To highlight a specific product benefit or use
 
 ## Rules
 
-* ?
+None
 
-## Figma props
+## Figma properties
 
 | Name | Type | Description |
 |----|----|----|
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| `page` | `variant` | Render component on light or strong (dark) backgrounds. **Options:** `light` and `strong`. **Default:** `light` |
+| `showIcon` | `boolean` |    |
+| `icon` |    |    |
+| `showDescription` | `boolean` |    |
+| `heading` | `text` |    |
+| `description` | `text` |    |
+
+## Nested instances
+
+* [Icon](/components/icon)
 
 ## States
 
-TBD
+None
 
 ## UX writing guidelines
 
@@ -31,29 +41,23 @@ TBD
 
 ## Changelog
 
-### Dec 14, 2022
+### Dec 16, 2022
 
 * Updated Figma documentation
 
-## Usage
+## Where used
 
-### Components
-
-* ?
-
-### Patterns
-
-* ?
+* [KeyBenefits](/component/key-benefits)
 
 ## Links
 
 ### Design
 
-* Figma
-* Documentation
+* ~~Figma~~
+* [Documentation](/components/key-benefit)
 
 ### Development
 
-* Swingset
+* ~~Swingset~~
 
 
