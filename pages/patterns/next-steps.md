@@ -35,7 +35,7 @@ TBD
 ### Dec 7, 2022
 
 - Added `medium` breakpoint
-- Updated Figma documentation
+- Updated design documentation
 
 ## Usage
 

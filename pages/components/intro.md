@@ -52,7 +52,7 @@ Not applicable. [Button](https://hashicorp-wpl-documentation.vercel.app/componen
 ### Nov 8, 2022
 
 - Removed `showBullet` on `_Bullet` nested component
-- Updated Figma documentation
+- Updated design documentation
 
 ### Oct 20, 2022
 

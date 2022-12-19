@@ -35,7 +35,7 @@ TBD
 
 ### Nov 14, 2022
 
-- Updated Figma documentation
+- Updated design documentation
 
 ## Usage
 
