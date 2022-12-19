@@ -1,5 +1,6 @@
-Updated: Nov 18, 2022
-Status: **Work-in-progress**
+Updated: Dec 19, 2022
+
+Status: [**Work-in-progress**](/guides/can-i-use#work-in-progress)
 
 ---
 
@@ -7,21 +8,22 @@ Status: **Work-in-progress**
 
 ## Purpose
 
-## To ?
+To help a visitor understand and navigate content hierarchy.
 
 ## Rules
 
-- ?
+None
 
 ## Figma props
 
-| Name      | Type      | Description                                                           |
-| --------- | --------- | --------------------------------------------------------------------- |
-| `surface` | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong` |
+| Name    | Type      | Description                                                                                      |
+| ------- | --------- | ------------------------------------------------------------------------------------------------ |
+| `page`  | `variant` | Render on light or strong backgrounds. **Options:** `light`, `strong`. **Default:** `light`.     |
+| `count` | `variant` | The number of links including the current page. **Options:** `1`, `2`, and `3`. **Default:** `1` |
 
 ## States
 
-TBD
+States determined by [InlineLink]('/components/inline-link')
 
 ## UX writing guidelines
 
@@ -29,17 +31,15 @@ TBD
 
 ## Changelog
 
+### Dec 19, 2022
+
+- Updated design documentation
+
 ### Nov 14, 2022
 
-- Updated Figma documentation
+- Updated design documentation
 
-## Usage
-
-### Components
-
-- ?
-
-### Patterns
+## Where used
 
 - ?
 
@@ -52,4 +52,4 @@ TBD
 
 ### Engineering
 
-- Swingset
+- ~~Swingset~~
