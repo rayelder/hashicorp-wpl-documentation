@@ -1,17 +1,33 @@
+import Image from 'next/image'
+import { Callout, Tab, Tabs } from 'nextra-theme-docs'
+
+<Callout type="default" emoji="🔴">
+  Status: **Work-in-progress**
+</Callout>
+
+<Callout type="default" emoji="🟢">
+  Status: **Ready for use**
+</Callout>
+
+<Image
+  src="/images/preview/preview-actions@2x.png"
+  alt="Hello"
+  width={192}
+  height={148}
+/>
+
 # Actions
 
-Status: **[Ready for use](/guides/can-i-use#ready-for-use)**
-
-## Purpose
-
+<Tabs items={['Purpose', 'Rules']}>
+<Tab>
 To render primary and secondary calls-to-action
+</Tab>
+<Tab>
 
----
+<ul><li>The first item and second item are always the `primary` and `secondary` variations respectively.</li><li>In the `mixed` variation, the [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) always comes second</li></ul>
 
-## Rules
-
-- The first item and second item are always the `primary` and `secondary` variations respectively.
-- In the `mixed` variation, the [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) always comes second
+ </Tab>
+   </Tabs>
 
 ## Figma properties
 
@@ -57,13 +73,17 @@ TBD
 - [Hero](/patterns/hero)
 - [Intro](/components/intro)
 
-## Links
+## Resources
 
-### Design
+<Tabs items={['Design', 'Engineering']}>
+<Tab>
 
-- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=572%3A1058)
-- [Documentation](/components/actions)
-
-### Engineering
-
-- [Swingset](https://react-components.vercel.app/components/actions)
+<ul>
+<li>[Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=572%3A1058)</li>
+<li>[Documentation](/components/actions)</li>
+</ul>
+</Tab>
+<Tab>
+<ul><li>[Swingset](https://react-components.vercel.app/components/actions)</li></ul>
+</Tab>
+</Tabs>
