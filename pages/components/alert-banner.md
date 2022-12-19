@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# AlertBanner
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# AlertBanner
 
 ## Purpose
 
@@ -16,7 +12,7 @@ To announce an event or product release
 
 - Hide AlertBanner on small breakpoint
 
-## Props
+## Figma properties
 
 | Name       | Type   | Description                                                                                                                                                                                                                |
 | ---------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

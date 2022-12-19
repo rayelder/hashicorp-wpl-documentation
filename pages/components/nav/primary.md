@@ -1,10 +1,6 @@
-Updated: Dec 5, 2022
-
-Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
-
----
-
 # Nav / Primary variant
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -19,7 +15,7 @@ To render primary navigation components for [hashicorp.com](https://www.hashicor
 - Animate in the “Talk to an expert” secondary button when the secondary navigation has becomes sticky
 - Always show GitHub star counts on .io domains
 
-## Figma props
+## Figma properties
 
 | Name           | Type      | Description                                                                                                                                                                          |
 | -------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

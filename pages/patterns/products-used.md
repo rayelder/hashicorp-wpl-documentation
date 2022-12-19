@@ -1,9 +1,6 @@
-Updated: Nov 17, 2022
-Status: **Work-in-progress**
-
----
-
 # ProductsUsed
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -16,7 +13,7 @@ Status: **Work-in-progress**
 
 - TBD
 
-## Figma props
+## Figma properties
 
 | Name            | Type      | Description                                                                                                                                       |
 | --------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,10 +1,6 @@
-Updated: Dec 6, 2022
-
-Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
-
----
-
 # Button / Primary
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -15,7 +11,7 @@ To navigate, submit a form, or trigger an action.
 - Use at `48px` height
 - Only Flight chevron icon is allowed
 
-## Figma props
+## Figma properties
 
 | Name          | Type      | Description                                                                                                                                                                                                        |
 | ------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

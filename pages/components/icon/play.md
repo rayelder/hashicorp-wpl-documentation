@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# Icon / Play
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# Icon / Play
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To display a non-interactive play icon
 
 None
 
-## Figma props
+## Figma properties
 
 | Name   | Type      | Description                                                                                                                              |
 | ------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- |

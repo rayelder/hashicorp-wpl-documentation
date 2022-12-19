@@ -1,9 +1,6 @@
-Updated: Nov 14, 2022
-Status: **Work-in-progress**
-
----
-
 # Quote
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -15,7 +12,7 @@ To showcase practitioner or customer social proof pull quotes
 
 - Can be used as standalone or nested component
 
-## Figma props
+## Figma properties
 
 | Name           | Type    | Description                                                                                                      |
 | -------------- | ------- | ---------------------------------------------------------------------------------------------------------------- |

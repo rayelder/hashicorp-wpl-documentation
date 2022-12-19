@@ -1,9 +1,6 @@
-Updated: Nov 17, 2022
-Status: **Not ready for use**
-
----
-
 # HeroWithVideo
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -15,7 +12,7 @@ To highlight ?
 
 `TBD`
 
-## Figma props
+## Figma properties
 
 | Name         | Type      | Description                                                                                       |
 | ------------ | --------- | ------------------------------------------------------------------------------------------------- |

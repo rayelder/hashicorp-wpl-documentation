@@ -1,10 +1,6 @@
-Updated: Dec 19, 2022
-
-Status: [**Work-in-progress**](/guides/can-i-use#work-in-progress)
-
----
-
 # Breadcrumbs
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To help a visitor understand and navigate content hierarchy.
 
 None
 
-## Figma props
+## Figma properties
 
 | Name    | Type      | Description                                                                                      |
 | ------- | --------- | ------------------------------------------------------------------------------------------------ |

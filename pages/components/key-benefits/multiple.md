@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# KeyBenefits / Multiple
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# KeyBenefits / Multiple
 
 ## Purpose
 
@@ -15,7 +11,7 @@ To promote product or solution key benefits
 - Must display at least 2 benefits
 - Limit of 3 benefits
 
-## Props
+## Figma properties
 
 | Name         | Type      | Description                                                            |
 | ------------ | --------- | ---------------------------------------------------------------------- |

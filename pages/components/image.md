@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# Image
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# Image
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To render an image at a specific aspect ratio
 
 None
 
-## Figma props
+## Figma properties
 
 | Name        | Type      | Description                                                                                                     |
 | ----------- | --------- | --------------------------------------------------------------------------------------------------------------- |

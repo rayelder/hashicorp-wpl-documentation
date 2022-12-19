@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# KeyBenefit
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# KeyBenefit
 
 ## Purpose
 

@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# Icon / Flight
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# Icon / Flight
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To display a contained or not contained [Flight icon](https://flight-hashicorp.v
 
 - None
 
-## Figma props
+## Figma properties
 
 | Name           | Type            | Description                                                                                                  |
 | -------------- | --------------- | ------------------------------------------------------------------------------------------------------------ |

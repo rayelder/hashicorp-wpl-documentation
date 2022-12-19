@@ -1,9 +1,6 @@
-Updated: Nov 18, 2022
-Status: **Work-in-progress**
+# Card / Call-to-action
 
----
-
-# CTACard
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -13,7 +10,7 @@ To promote a specific product offering.
 
 - TBD
 
-## Props
+## Figma properties
 
 | Name   | Type   | Description                                                                           |
 | ------ | ------ | ------------------------------------------------------------------------------------- |

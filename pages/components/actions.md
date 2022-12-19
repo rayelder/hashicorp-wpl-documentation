@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# Actions
 
 Status: **[Ready for use](/guides/can-i-use#ready-for-use)**
-
----
-
-# Actions
 
 ## Purpose
 
@@ -17,7 +13,7 @@ To render primary and secondary calls-to-action
 - The first item and second item are always the `primary` and `secondary` variations respectively.
 - In the `mixed` variation, the [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) always comes second
 
-## Figma props
+## Figma properties
 
 | Name            | Type      | Description                                                                                           |
 | --------------- | --------- | ----------------------------------------------------------------------------------------------------- |

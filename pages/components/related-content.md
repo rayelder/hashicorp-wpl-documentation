@@ -1,10 +1,6 @@
-Updated: Dec 9, 2022
-
-Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
-
----
-
 # RelatedContent
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To showcase content of a specific type. (i.e. Customer story)
 
 - Use only one content type
 
-## Figma props
+## Figma properties
 
 | Name         | Type      | Description                                                                                         |
 | ------------ | --------- | --------------------------------------------------------------------------------------------------- |

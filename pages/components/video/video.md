@@ -1,9 +1,6 @@
-Updated: Nov 14, 2022
-Status: **Work-in-progress**
-
----
-
 # Video
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 

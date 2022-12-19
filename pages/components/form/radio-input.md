@@ -1,10 +1,6 @@
-Updated: Dec 6, 2022
-
-Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
-
----
-
 # RadioInput
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To render a radio input
 
 None
 
-## Figma props
+## Figma properties
 
 | Name    | Type      | Description                                                                                                                               |
 | ------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------- |

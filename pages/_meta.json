@@ -1,7 +1,11 @@
 {
-  "index": { "title": "Introduction", "type": "page" },
+  "index": { "title": "Introduction", "type": "page", "display": "hidden" },
   "components": { "title": "Components", "type": "page" },
   "guides": { "title": "Guides", "type": "page" },
-  "contributing": { "title": "Contributing", "type": "page" },
+  "contributing": {
+    "title": "Contributing",
+    "type": "page",
+    "display": "hidden"
+  },
   "patterns": { "title": "Patterns", "display": "hidden" }
 }

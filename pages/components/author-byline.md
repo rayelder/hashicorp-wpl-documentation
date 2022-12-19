@@ -1,9 +1,6 @@
-Updated: Nov 14, 2022
-Status: **Work-in-progress**
-
----
-
 # AuthorByline
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -15,7 +12,7 @@ To ?
 
 - ?
 
-## Figma props
+## Figma properties
 
 | Name      | Type      | Description                                                           |
 | --------- | --------- | --------------------------------------------------------------------- |

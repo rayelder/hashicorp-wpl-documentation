@@ -1,23 +1,16 @@
-### To do: Update placeholder documentation
-
----
-
-Updated: Nov 18, 2022
-Status: **Work-in-progress**
-
----
-
 # Gradient
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
-## To ?
+To ?
 
 ## Rules
 
 - ?
 
-## Figma props
+## Figma properties
 
 | Name      | Type      | Description                                                           |
 | --------- | --------- | --------------------------------------------------------------------- |

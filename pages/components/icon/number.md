@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# Icon / Number
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# Icon / Number
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To display a single digit number
 
 None
 
-## Figma props
+## Figma properties
 
 | Name          | Type      | Description                                                                                                  |
 | ------------- | --------- | ------------------------------------------------------------------------------------------------------------ |

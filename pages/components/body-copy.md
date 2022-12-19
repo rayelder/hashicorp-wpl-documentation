@@ -1,14 +1,6 @@
-### To do: Update placeholder documentation
-
----
-
-| Status               | Updated      |
-| -------------------- | ------------ |
-| **Work-in-progress** | Nov 18, 2022 |
-
----
-
 # BodyCopy
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -18,7 +10,7 @@ To display WCAG compliant typography on a `light` or `strong`.
 
 - TBD
 
-## Figma props
+## Figma properties
 
 | Name      | Type      | Description                                                           |
 | --------- | --------- | --------------------------------------------------------------------- |

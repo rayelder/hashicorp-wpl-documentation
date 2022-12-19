@@ -1,10 +1,6 @@
-Updated: Dec 5, 2022
-
-Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
-
----
-
 # Nav / Secondary variant
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -18,7 +14,7 @@ To render secondary navigation components for [hashicorp.com](https://www.hashic
 - Primary navigation is not sticky when combined with secondary navigation
 - Animate in the “Talk to an expert” secondary button when the secondary navigation has becomes sticky
 
-## Figma props
+## Figma properties
 
 | Name         | Type      | Description                                                                                                                                                                                                             |
 | ------------ | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,10 +1,6 @@
-Updated: Dec 16, 2022
+# Aside
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
-
----
-
-# Aside
 
 ## Purpose
 
@@ -16,7 +12,7 @@ To render a highlighted box of content in long-form content
 
 - TBD
 
-## Props
+## Figma properties
 
 | Name       | Type       | Description                                                                                      |
 | ---------- | ---------- | ------------------------------------------------------------------------------------------------ |

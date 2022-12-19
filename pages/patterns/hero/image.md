@@ -1,9 +1,6 @@
-Updated: Nov 17, 2022
-Status: **Not ready for use**
-
----
-
 # HeroWithImage
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -20,7 +17,7 @@ To promote ?
   - Medium breakpoint → 1:1
   - Large breakpoint → 16:9
 
-## Figma props
+## Figma properties
 
 | Name              | Type      | Description                                                                                        |
 | ----------------- | --------- | -------------------------------------------------------------------------------------------------- |

@@ -1,9 +1,6 @@
-Updated: Nov 14, 2022
-Status: **Ready for use**
-
----
-
 # Intro
+
+Status: **[Ready for use](/guides/can-i-use#ready-for-use)**
 
 ## Purpose
 
@@ -16,7 +13,7 @@ To introduce a topic and encourage call-to-action interaction
 - Do not center align typography on small breakpoint
 - Encourage the use of a single call-to-action. Default call-to-action should be primary Stand-alone-link
 
-## Props
+## Figma properties
 
 | Name            | Type    | Description                                                                                          |
 | --------------- | ------- | ---------------------------------------------------------------------------------------------------- |

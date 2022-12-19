@@ -1,10 +1,6 @@
-Updated: Dec 5, 2022
-
-Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
-
----
-
 # Nav / PageBuilder variant
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -16,7 +12,7 @@ To render secondary navigation components for [hashicorp.com](https://www.hashic
 
 - navigation is always sticky
 
-## Figma props
+## Figma properties
 
 | Name         | Type      | Description                                                                                                                                                                |
 | ------------ | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

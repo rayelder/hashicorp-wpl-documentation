@@ -1,8 +1,6 @@
-Updated: Dec 19, 2022
-
-Status: [**Work-in-progress**](/guides/can-i-use#work-in-progress)
-
 # BrandPattern
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -15,7 +13,7 @@ To render an optimized SVG brand pattern across breakpoints
 - SVG should be pinned top right for large and medium breakpoints
 - For now, SVG should be hidden on small breakpoints
 
-## Figma props
+## Figma properties
 
 | Name     | Type      | Description                                                           |
 | -------- | --------- | --------------------------------------------------------------------- |

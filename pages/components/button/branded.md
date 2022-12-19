@@ -1,10 +1,6 @@
-Updated: Dec 6, 2022
-
-Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#work-in-progress)**
-
----
-
 # Button / Branded
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -16,7 +12,7 @@ Status: **[Work-in-progress](https://hashicorp-wpl-documentation.vercel.app/guid
 
 None
 
-## Figma props
+## Figma properties
 
 | Name      | Type      | Description                                                                                                                                                 |
 | --------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

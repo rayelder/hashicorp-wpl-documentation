@@ -1,10 +1,6 @@
-Updated: Nov 18, 2022
-
-Status: **Work-in-progress**
-
----
-
 # Toggle
+
+Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
@@ -14,7 +10,7 @@ To render a checkbox input as a toggle switch
 
 None
 
-## Figma props
+## Figma properties
 
 | Name      | Type      | Description                                                                            |
 | --------- | --------- | -------------------------------------------------------------------------------------- |

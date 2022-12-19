@@ -1,10 +1,6 @@
-Updated: Dec 6, 2022
-
-Status: **[Ready for use](https://hashicorp-wpl-documentation.vercel.app/guides/can-i-use#ready-for-use)**
-
----
-
 # StandaloneLink
+
+Status: **[Ready for use](/guides/can-i-use#ready-for-use)**
 
 ## Purpose
 
@@ -16,7 +12,7 @@ Call-to-action directly following content to navigate or trigger an action.
 
 - May appear on their own, directly following content, or in combination with [Button / Primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary)
 
-## Figma props
+## Figma properties
 
 | Name          | Type              | Description                                                                                                            |
 | ------------- | ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
