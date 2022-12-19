@@ -1,7 +1,6 @@
-Updated: Nov 14, 2022
-Status: **Work-in-progress**
+Updated: Dec 19, 2022
 
----
+Status: [**Work-in-progress**](/guides/can-i-use#work-in-progress)
 
 # BrandPattern
 
@@ -33,6 +32,14 @@ Not applicable.
 
 ## Changelog
 
+### Dec 19, 2022
+
+- Updated design documentation
+
+### Dec 16, 2022
+
+- Added `theme` background gradients requested by Dylan Staley
+
 ### Nov 7, 2022
 
 - Documented component
@@ -47,7 +54,7 @@ None
 ### Design
 
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=2303%3A11771)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/brand-pattern)
+- [Documentation](/components/brand-pattern)
 
 ### Engineering
 
