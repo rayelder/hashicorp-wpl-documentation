@@ -1,33 +1,13 @@
-import Image from 'next/image'
-import { Callout, Tab, Tabs } from 'nextra-theme-docs'
+# \<Actions />
 
-<Callout type="default" emoji="🔴">
-  Status: **Work-in-progress**
-</Callout>
+## Purpose
 
-<Callout type="default" emoji="🟢">
-  Status: **Ready for use**
-</Callout>
+- To render primary and secondary calls-to-action
 
-<Image
-  src="/images/preview/preview-actions@2x.png"
-  alt="Hello"
-  width={192}
-  height={148}
-/>
+## Guidelines
 
-# Actions
-
-<Tabs items={['Purpose', 'Rules']}>
-<Tab>
-To render primary and secondary calls-to-action
-</Tab>
-<Tab>
-
-<ul><li>The first item and second item are always the `primary` and `secondary` variations respectively.</li><li>In the `mixed` variation, the [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) always comes second</li></ul>
-
- </Tab>
-   </Tabs>
+- The first and second items are always the `primary` and `secondary` respectively.
+- In the `mixed` variation, the [StandaloneLink](/components/standalone-link) is always the second item
 
 ## Figma properties
 
@@ -40,7 +20,7 @@ To render primary and secondary calls-to-action
 
 ## States
 
-**None.** Interaction states defined by [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) components.
+Interaction defined by [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) components
 
 ## UX writing guidelines
 
@@ -75,15 +55,11 @@ TBD
 
 ## Resources
 
-<Tabs items={['Design', 'Engineering']}>
-<Tab>
+### Design
 
-<ul>
-<li>[Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=572%3A1058)</li>
-<li>[Documentation](/components/actions)</li>
-</ul>
-</Tab>
-<Tab>
-<ul><li>[Swingset](https://react-components.vercel.app/components/actions)</li></ul>
-</Tab>
-</Tabs>
+- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=572%3A1058)
+- [Documentation](/components/actions)
+
+### Engineering
+
+- [Swingset](https://react-components.vercel.app/components/actions)
