@@ -1,5 +1,15 @@
 {
   "index": "Overview",
   "base": "Base",
-  "call-to-action": "Call-to-action"
+  "blog": "Blog",
+  "call-to-action": "Call-to-action",
+  "career": "Career",
+  "event": "Event",
+  "featured": "Featured",
+  "partner": "Partner",
+  "person": "Person",
+  "press-release": "Press release",
+  "resource": "Resource",
+  "text": "Text",
+  "use-case": "Use case"
 }

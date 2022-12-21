@@ -1,10 +1,10 @@
-# \<CallToActionCard />
+# \<BlogCard />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
-To promote a specific product offering.
+To ?
 
 ## Rules
 
@@ -35,6 +35,10 @@ To promote a specific product offering.
 | `description` | 45      | 55      |
 
 ## Changelog
+
+### Dec 21, 2022
+
+- Updated design documentation
 
 ### Aug 9, 2022
 
