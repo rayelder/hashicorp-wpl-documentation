@@ -1,4 +1,4 @@
-# VideoThumbnail
+# \<VideoThumbnail />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -26,17 +26,15 @@ TBD
 
 ## Changelog
 
+### Dec 20, 2022
+
+- Updated design documentation
+
 ### Nov 14, 2022
 
 - Updated design documentation
 
-## Usage
-
-### Components
-
-- ?
-
-### Patterns
+## Where used
 
 - ?
 
@@ -44,9 +42,9 @@ TBD
 
 ### Design
 
-- Figma
-- Documentation
+- ~~Figma~~
+- [Documentation](/components/video/thumbnail)
 
 ### Engineering
 
-- Swingset
+- ~~Swingset~~

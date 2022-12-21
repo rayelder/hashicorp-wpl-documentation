@@ -1,12 +1,10 @@
-# Video
+# \<VideoPlayer />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Purpose
 
-To feature a video within a pattern
-
----
+To feature video content
 
 ## Rules
 
@@ -45,6 +43,10 @@ To feature a video within a pattern
 
 ## Changelog
 
+### Dec 20, 2022
+
+- Updated design documentation
+
 ### Sep 26, 2022
 
 - Added solution gradient to right
@@ -52,6 +54,11 @@ To feature a video within a pattern
 
 ## Links
 
+### Design
+
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/qDnReYgTBKGbE2o8TCBMLx/Components?node-id=1707%3A9339)
-- [Design documentation](https://hashicorp-wpl-documentation.vercel.app/components/video)
+- [Documentation](/components/video/player)
+
+### Engineering
+
 - ~~Swingset~~

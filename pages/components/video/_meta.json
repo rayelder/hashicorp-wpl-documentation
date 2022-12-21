@@ -1,8 +1,8 @@
 {
   "index": "Overview",
-  "video-thumbnail": {
-    "title": "VideoThumbnail",
-    "display": "hidden"
-  },
-  "video": "Video"
+  "feature": "Feature",
+  "inline": "Inline",
+  "modal": "Modal",
+  "player": "Player",
+  "thumbnail": "Thumbnail"
 }

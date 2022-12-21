@@ -1,4 +1,7 @@
 # Video variants
 
-- [Video]('/components/video/video')
-- [VideoThumbnail]('/components/video/video-thumbnail')
+- [Feature](/components/video/feature)
+- [Inline](/components/video/inline)
+- [Modal](/components/video/modal)
+- [Player](/components/video/player)
+- [Thumbnail](/components/video/thumbnail)
