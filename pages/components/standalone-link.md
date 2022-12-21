@@ -1,4 +1,4 @@
-# StandaloneLink
+# \<StandaloneLink />
 
 Status: **[Ready for use](/guides/can-i-use#ready-for-use)**
 
@@ -10,7 +10,7 @@ Call-to-action directly following content to navigate or trigger an action.
 
 ## Rules
 
-- May appear on their own, directly following content, or in combination with [Button / Primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary)
+- May appear on their own, directly following content, or in combination with [Button / Primary](/components/button/primary)
 
 ## Figma properties
 
@@ -53,20 +53,18 @@ Call-to-action directly following content to navigate or trigger an action.
 
 - Added design documentation
 
-## Used
+## Where used
 
-### Components
-
-- [Actions](https://hashicorp-wpl-documentation.vercel.app/components/actions)
-- [Intro](https://hashicorp-wpl-documentation.vercel.app/components/intro)
-- [Card](https://hashicorp-wpl-documentation.vercel.app/components/card)
+- [Actions](/components/actions)
+- [Intro](/components/intro)
+- [Card](/components/card)
 
 ## Links
 
 ### Design
 
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=2824%3A11407)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link)
+- [Documentation](/components/standalone-link)
 
 ### Engineering
 

@@ -41,9 +41,7 @@ Not applicable.
 - Updated colors to use updated neutral and blue palettes
 - Updated design documentation
 
-## Usage
-
-### Components
+## Where used
 
 None
 

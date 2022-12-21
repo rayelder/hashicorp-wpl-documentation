@@ -30,13 +30,7 @@ TBD
 
 - Updated design documentation
 
-## Usage
-
-### Components
-
-- ?
-
-### Patterns
+## Where used
 
 - ?
 

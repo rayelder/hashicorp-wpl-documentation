@@ -1,4 +1,4 @@
-# AlertBanner
+# \<AlertBanner />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -50,7 +50,7 @@ Not applicable
 ### Sep 6, 2022
 
 - Created and published Figma component based on current Swingset implementation
-- Nested [CloseButton](https://hashicorp-wpl-documentation.vercel.app/components/close-button)
+- Nested [CloseButton](/components/close-button)
 
 ## Links
 

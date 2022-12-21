@@ -1,4 +1,4 @@
-# BodyCopy
+# \<BodyCopy />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -30,13 +30,7 @@ TBD
 
 - Requested by Philip Karam
 
-## Usage
-
-### Components
-
-- ?
-
-### Patterns
+## Where used
 
 - ?
 

@@ -1,4 +1,4 @@
-# Button / Branded
+# \<ButtonBranded />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -51,7 +51,7 @@ Not applicable
 ### Design
 
 - Figma
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/branded)
+- [Documentation](/components/button/branded)
 
 ### Engineering
 

@@ -45,7 +45,7 @@ TBD
 - Created consistent calls-to-action across all navigation components and breakpoints
 - Created navigation component design documentation
 
-## Usage
+## Where used
 
 TBD
 

@@ -1,4 +1,4 @@
-# ProductsUsed
+# \<ProductsUsed />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -15,16 +15,16 @@ Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
 ## Figma properties
 
-| Name            | Type      | Description                                                                                                                                       |
-| --------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `page`          | `variant` | Display component on `page` backgrounds. **Options:** `light` or `strong`                                                                         |
-| `isInteractive` | `boolean` | Toggle [Branded button](https://hashicorp-wpl-documentation.vercel.app/components/button/branded) from `enabled` to `disabled`. Default is `True` |
-| `label`         | `text`    | Contextual label above buttons. Default is “Products used”                                                                                        |
+| Name            | Type      | Description                                                                                         |
+| --------------- | --------- | --------------------------------------------------------------------------------------------------- |
+| `page`          | `variant` | Display component on `page` backgrounds. **Options:** `light` or `strong`                           |
+| `isInteractive` | `boolean` | Toggle [Branded button](/components/button/branded) from `enabled` to `disabled`. Default is `True` |
+| `label`         | `text`    | Contextual label above buttons. Default is “Products used”                                          |
 
 ## States
 
 - Not applicable
-- Defined by [Branded button](https://hashicorp-wpl-documentation.vercel.app/components/button/branded) variant
+- Defined by [Branded button](/components/button/branded) variant
 
 ## UX writing guidelines
 
@@ -34,7 +34,7 @@ TBD
 
 ### Oct 28, 2022
 
-- Replaced nested button component with [Branded button](https://hashicorp-wpl-documentation.vercel.app/components/button/branded) component
+- Replaced nested button component with [Branded button](/components/button/branded) component
 - Updated `appearance` to `page`
 - Updated `label` fill color
 
@@ -43,7 +43,7 @@ TBD
 ### Design
 
 - [Figma](https://www.figma.com/file/VvpEQaWhKQExx9QTWRyayd/Patterns?node-id=677%3A4054)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/branded)
+- [Documentation](/components/button/branded)
 
 ### Engineering
 

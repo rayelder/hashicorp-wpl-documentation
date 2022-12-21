@@ -1,4 +1,4 @@
-# BrandPattern
+# \<BrandPattern />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -43,7 +43,7 @@ Not applicable.
 - Documented component
 - Created large breakpoint for corporate action and neutral themes (tall and short variants)
 
-## Usage
+## Where used
 
 None
 

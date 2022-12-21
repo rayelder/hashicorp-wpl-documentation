@@ -28,7 +28,7 @@ To promote ?
 
 ## States
 
-Not applicable. Interactions defined by [Button](https://hashicorp-wpl-documentation.vercel.app/components/button), [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link), and InlineVideo components.
+Not applicable. Interactions defined by [Button](/components/button), [StandaloneLink](/components/standalone-link), and InlineVideo components.
 
 ## UX writing guidelines
 
@@ -47,7 +47,7 @@ TBD
 - Added InlineVideo component
 - Increased vertical spacing on `small` breakpoint
 
-## Usage
+## Where used
 
 None
 

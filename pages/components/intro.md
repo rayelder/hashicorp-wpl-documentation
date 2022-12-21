@@ -1,4 +1,4 @@
-# Intro
+# \<Intro />
 
 Status: **[Ready for use](/guides/can-i-use#ready-for-use)**
 
@@ -28,7 +28,7 @@ To introduce a topic and encourage call-to-action interaction
 
 ## States
 
-Not applicable. [Button](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [StandaloneLink](https://hashicorp-wpl-documentation.vercel.app/components/standalone-link) define interaction states.
+Not applicable. [Button](/components/button/primary) and [StandaloneLink](/components/standalone-link) define interaction states.
 
 ## UX writing guidelines
 
@@ -74,7 +74,7 @@ Not applicable. [Button](https://hashicorp-wpl-documentation.vercel.app/componen
 ### Design
 
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/branch/1Hl4j9jAe0Z12GrOGt46RZ/Components?node-id=536%3A702)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/intro)
+- [Documentation](/components/intro)
 
 ### Engineering
 

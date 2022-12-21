@@ -1,4 +1,4 @@
-# Button / PrimaryWithClickTrigger
+# \<ButtonWithClickTrigger />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -54,7 +54,7 @@ None. Use Button / Primary states.
 ### Design
 
 - Figma
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/primary-with-click-trigger)
+- [Documentation](/components/button/primary-with-click-trigger)
 
 ### Engineering
 

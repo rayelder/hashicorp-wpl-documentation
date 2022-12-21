@@ -1,4 +1,4 @@
-# RelatedContent
+# \<RelatedContent />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -42,7 +42,7 @@ Defined by Card variants and InlineLink.
 ### Design
 
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=4757%3A35316)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/related-content)
+- [Documentation](/components/related-content)
 
 ### Engineering
 

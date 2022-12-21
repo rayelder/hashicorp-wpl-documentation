@@ -33,7 +33,7 @@ TBD
 
 - Documented pattern and nested components
 
-## Usage
+## Where used
 
 None
 

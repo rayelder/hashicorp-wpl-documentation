@@ -1,4 +1,4 @@
-# Button / Github
+# \<ButtonGithub />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -42,13 +42,13 @@ Not applicable.
 
 ### Oct 24, 2022
 
-- Combined with [primary](https://hashicorp-wpl-documentation.vercel.app/components/button/primary) and [secondary](https://hashicorp-wpl-documentation.vercel.app/components/button/secondary) buttons
+- Combined with [primary](/components/button/primary) and [secondary](/components/button/secondary) buttons
 - Updated `appearance` to `page`
 - Applied semantic design tokens
 
 ### Sep 8, 2022
 
-- Updated design to match current [Button](https://hashicorp-wpl-documentation.vercel.app/components/button) implementation
+- Updated design to match current [Button](/components/button) implementation
 - Added `appearance` for `light` and `dark`
 
 ## Links
@@ -56,7 +56,7 @@ Not applicable.
 ### Design
 
 - Figma
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button/github)
+- [Documentation](/components/button/github)
 
 ### Engineering
 

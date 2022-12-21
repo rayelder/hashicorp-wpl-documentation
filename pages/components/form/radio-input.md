@@ -40,7 +40,7 @@ TBD
 - Aligned RadioInput to CheckboxInput
 - Created design documentation
 
-## Usage
+## Where used
 
 TBD
 

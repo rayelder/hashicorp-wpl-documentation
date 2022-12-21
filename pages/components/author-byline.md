@@ -1,4 +1,4 @@
-# AuthorByline
+# \<AuthorByline />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -32,13 +32,7 @@ TBD
 
 - Updated design documentation
 
-## Usage
-
-### Components
-
-- ?
-
-### Patterns
+## Where used
 
 - ?
 

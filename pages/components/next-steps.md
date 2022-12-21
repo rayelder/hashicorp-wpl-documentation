@@ -1,4 +1,4 @@
-# NextSteps
+# \<NextSteps />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -33,7 +33,7 @@ TBD
 - Added `medium` breakpoint
 - Updated design documentation
 
-## Usage
+## Where used
 
 None
 

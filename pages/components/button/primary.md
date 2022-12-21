@@ -1,4 +1,4 @@
-# Button / Primary
+# \<ButtonPrimary />
 
 Status: **[Work-in-progress](/guides/can-i-use#work-in-progress)**
 
@@ -54,7 +54,7 @@ To navigate, submit a form, or trigger an action.
 
 ### Oct 24, 2022
 
-- Combined with [secondary](https://hashicorp-wpl-documentation.vercel.app/components/button/secondary) and [GitHub](https://hashicorp-wpl-documentation.vercel.app/components/button/github) buttons
+- Combined with [secondary](/components/button/secondary) and [GitHub](/components/button/github) buttons
 - Updated `appearance` to `page`
 - Applied semantic design tokens
 
@@ -78,7 +78,7 @@ To navigate, submit a form, or trigger an action.
 ### Design
 
 - Figma
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/button)
+- [Documentation](/components/button)
 
 ### Engineering
 

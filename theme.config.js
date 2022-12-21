@@ -1,20 +1,14 @@
 export default {
   project: { link: 'https://github.com/rayelder/hashicorp-wpl-documentation' },
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-  titleSuffix: ' – HMDS',
+  titleSuffix: ' – WPL',
   sidebar: { defaultMenuCollapseLevel: 0 },
-  logo: <>Design Documentation</>,
+  logo: <>WPL Design Docs</>,
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta
-        name="description"
-        content="HashiCorp Marketing Design System (HMDS)"
-      />
-      <meta
-        name="og:title"
-        content="HashiCorp Marketing Design System (HMDS)"
-      />
+      <meta name="description" content="HashiCorp Web Pattern Library (WPL)" />
+      <meta name="og:title" content="HashiCorp Web Pattern Library (WPL)" />
     </>
   ),
   navigation: { next: false },
@@ -24,7 +18,7 @@ export default {
   darkMode: true,
   banner: {
     key: 'hmds-beta',
-    text: <span>HashiCorp Marketing Design System</span>,
+    text: <span>HashiCorp Web Pattern Library</span>,
     dismissible: false,
   },
   useNextSeoProps() {

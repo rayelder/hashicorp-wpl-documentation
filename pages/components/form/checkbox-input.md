@@ -47,7 +47,7 @@ TBD
 - Updated colors to use updated neutral and blue palettes
 - Updated design documentation
 
-## Usage
+## Where used
 
 TBD
 
@@ -56,7 +56,7 @@ TBD
 ### Design
 
 - [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=640%3A1754)
-- [Documentation](https://hashicorp-wpl-documentation.vercel.app/components/form/checkbox-input)
+- [Documentation](/components/form/checkbox-input)
 
 ### Engineering
 
