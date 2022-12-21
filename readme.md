@@ -1,3 +1,3 @@
-### HashiCorp Marketing Design System (HMDS)
+### HashiCorp Web Pattern Library (WPL)
 
 # Design documentation

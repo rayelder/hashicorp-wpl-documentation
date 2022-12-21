@@ -1,5 +1,6 @@
 {
   "index": { "title": "Introduction", "type": "page", "display": "hidden" },
+  "foundations": { "title": "Foundations", "type": "page" },
   "components": { "title": "Components", "type": "page" },
   "guides": { "title": "Guides", "type": "page" },
   "contributing": {
