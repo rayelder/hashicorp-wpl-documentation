@@ -35,7 +35,7 @@ Not applicable.
 
 ### Jan 10, 2023
 
-- Updated design documentation
+- Created design documentation
 
 ## Where used
 

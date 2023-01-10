@@ -36,7 +36,9 @@ Not applicable.
 
 ### Jan 10, 2023
 
-- Updated design documentation
+- Removed featured cards from hero component, requested by Coon Lam
+- Updated hero `background-color` to `Neutral / 25`
+- Created design documentation
 
 ## Where used
 
