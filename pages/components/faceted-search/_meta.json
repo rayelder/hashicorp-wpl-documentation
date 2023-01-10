@@ -1,5 +1,5 @@
 {
   "index": "Overview",
-  "faceted-search": "FacetedSearch",
-  "faceted-search-with-hero": "FacetedSearchWithHero"
+  "without-hero": "Without hero",
+  "with-hero": "With hero"
 }
