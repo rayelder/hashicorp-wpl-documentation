@@ -1,8 +1,20 @@
 {
   "index": "Overview",
-  "feature": "Feature",
-  "inline": "Inline",
-  "modal": "Modal",
+  "feature": {
+    "title": "Feature",
+    "display": "hidden"
+  },
+  "inline": {
+    "title": "Inline",
+    "display": "hidden"
+  },
+  "modal": {
+    "title": "Modal",
+    "display": "hidden"
+  },
   "player": "Player",
-  "thumbnail": "Thumbnail"
+  "thumbnail": {
+    "title": "Thumbnail",
+    "display": "hidden"
+  }
 }

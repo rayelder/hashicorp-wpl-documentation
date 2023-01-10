@@ -21,7 +21,7 @@ export default {
     </>
   ),
   primaryHue: { dark: 220, light: 220 },
-  sidebar: { defaultMenuCollapseLevel: 0 },
+  sidebar: { defaultMenuCollapseLevel: 2 },
   footer: {
     text: (
       <span>
@@ -35,5 +35,9 @@ export default {
         &nbsp; All rights reserved.
       </span>
     ),
+  },
+  toc: {
+    extraContent: <img src="#" alt="" />,
+    float: true,
   },
 }

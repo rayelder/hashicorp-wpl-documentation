@@ -1,10 +1,16 @@
 {
   "index": "Overview",
-  "accordion": "Accordion",
+  "accordion": {
+    "title": "Accordion",
+    "display": "hidden"
+  },
   "actions": "Actions",
   "alert-banner": "AlertBanner",
   "aside": "Aside",
-  "author-byline": "AuthorByline",
+  "author-byline": {
+    "title": "AuthorByline",
+    "display": "hidden"
+  },
   "badge": "Badge",
   "body-copy": {
     "title": "BodyCopy",
@@ -15,19 +21,43 @@
   "button": "Button",
   "call-to-action": "CallToAction",
   "card": "Card",
-  "cookie-manager": "CookieManager",
-  "cookie-notification": "CookieNotification",
-  "customer-stories": "CustomerStories",
-  "eyebrow-with-pattern": "EyebrowWithPattern",
-  "faceted-search": "FacetedSearch",
+  "cookie-manager": {
+    "title": "CookieManager",
+    "display": "hidden"
+  },
+  "cookie-notification": {
+    "title": "CookieNotification",
+    "display": "hidden"
+  },
+  "customer-stories": {
+    "title": "CustomerStories",
+    "display": "hidden"
+  },
+  "eyebrow-with-pattern": {
+    "title": "EyebrowWithPattern",
+    "display": "hidden"
+  },
+  "faceted-search": {
+    "title": "FacetedSearch",
+    "display": "hidden"
+  },
   "form": "Form",
   "hero": "Hero",
-  "gradient": "Gradient",
+  "gradient": {
+    "title": "Gradient",
+    "display": "hidden"
+  },
   "icon": "Icon",
   "image": "Image",
-  "inline-link": "InlineLink",
+  "inline-link": {
+    "title": "InlineLink",
+    "display": "hidden"
+  },
   "intro": "Intro",
-  "intro-with-logo-grid": "IntroWithLogoGrid",
+  "intro-with-logo-grid": {
+    "title": "IntroWithLogoGrid",
+    "display": "hidden"
+  },
   "key-benefit": "KeyBenefit",
   "key-benefits": "KeyBenefits",
   "nav": {
@@ -35,15 +65,30 @@
     "display": "hidden"
   },
   "next-steps": "NextSteps",
-  "notification": "Notification",
-  "popover": "Popover",
+  "notification": {
+    "title": "Notification",
+    "display": "hidden"
+  },
+  "popover": {
+    "title": "Popover",
+    "display": "hidden"
+  },
   "products-used": "ProductsUsed",
   "quote": "Quote",
-  "quote-with-logo-grid": "QuoteWithLogoGrid",
+  "quote-with-logo-grid": {
+    "title": "QuoteWithLogoGrid",
+    "display": "hidden"
+  },
   "related-content": "RelatedContent",
   "standalone-link": "StandaloneLink",
-  "tabs": "Tabs",
+  "tabs": {
+    "title": "Tabs",
+    "display": "hidden"
+  },
   "tile": "Tile",
-  "tooltip": "Tooltip",
+  "tooltip": {
+    "title": "Tooltip",
+    "display": "hidden"
+  },
   "video": "Video"
 }
