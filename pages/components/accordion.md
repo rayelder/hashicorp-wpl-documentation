@@ -56,7 +56,7 @@ TBD
 
 ### Design
 
-- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=1361%3A6862)
+- [Figma](https://www.figma.com/file/7cYgDM618stjYUHDqAfRec/Components?node-id=4742%3A19363)
 
 ### Engineering
 
