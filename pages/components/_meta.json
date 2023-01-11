@@ -1,8 +1,7 @@
 {
   "index": "Overview",
   "accordion": {
-    "title": "Accordion",
-    "display": "hidden"
+    "title": "Accordion"
   },
   "actions": "Actions",
   "alert-banner": "AlertBanner",
