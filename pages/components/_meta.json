@@ -48,8 +48,7 @@
   "icon": "Icon",
   "image": "Image",
   "inline-link": {
-    "title": "InlineLink",
-    "display": "hidden"
+    "title": "InlineLink"
   },
   "intro": "Intro",
   "intro-with-logo-grid": {
